@@ -46,28 +46,6 @@ If confronted with any **warnings**, click to continue with installation.
 
 ![image7](./img/2.1_image7.jpg)
 
-9. Once you are done with the above, please login to this site through the `/user/login` url and by using the following credentials:
-- username: `admin`
-- password: `password`
-
-10. Navigate to `/admin/reports/status` and make sure that there are no errors regarding the “File system” item. In case of errors please make sure to resolve those and then clear the Drupal Cache.
-
-![image8](./img/2.1_image8.jpg)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other errors may exist and should also be taken care of.
-
-11. Navigate to **/user/1/edit** and change the email of the admin user to the one you are using.
-12. Navigate to **/admin/structure/contact** and change the recipients email of the contact forms so that you receive the messages in your inbox.
-13. By default, our theme distribution comes with Drupal 8 caching ***deactivated***, ensuring a smoother experience during any technical work you will need to do post-installation.
-
-Either right after installation, or when you finish building your Drupal 8 site using this theme, it is recommended to activate Drupal caching and aggregation of CSS and JS files, for better performance.
-
-To do so, navigate to **/admin/config/development/performance** and enable caching (default option: 15 min) as well as the “Aggregate CSS files” and “Aggregate JavaScript files” options.
-
-![image9](./img/2.1_image9.jpg)
-
-
-
 
 ### 2.2 Installation with DDEV
 > [DDEV](https://ddev.readthedocs.io/) is an open source tool that makes it dead simple to get local PHP development environments up and running within minutes. It's powerful and flexible as a result of its per-project environment configurations, which can be extended, version controlled, and shared. In short, DDEV aims to allow development teams to use Docker in their workflow without the complexities of bespoke configuration.
@@ -96,6 +74,35 @@ Project Type [backdrop, drupal6, drupal7, drupal8, drupal9, laravel, magento, ma
 * Get an one time login URL: `ddev drush uli` 
 
 
+## Post Installation Tasks
+Once you are done with the above, please login to this site through the `/user/login` url and by using the following credentials:
+- username: `admin`
+- password: `password`
+
+### Check the Status Report
+1. Navigate to `/admin/reports/status` and make sure that there are no errors regarding the “File system” item. In case of errors please make sure to resolve those and then clear the Drupal Cache.
+
+![image8](./img/2.1_image8.jpg)
+
+Other errors may exist and should also be taken care of.
+
+### Edit the admin user and set the password
+1. Navigate to `/user/1/edit` and change the email of the admin user to the one you are using.
+2. Navigate to `/admin/structure/contact` and change the recipients email of the contact forms so that you receive the messages in your inbox.
+
+
+### Enable the cache (for production)
+3. By default, our theme distribution comes with Drupal caching ***deactivated***, ensuring a smoother experience during any technical work you will need to do post-installation.
+
+Either right after installation, or when you finish building your Drupal site using this theme, it is recommended to activate Drupal caching and aggregation of CSS and JS files, for better performance.
+
+To do so, navigate to `/admin/config/development/performance` and enable caching (default option: 15 min) as well as the “Aggregate CSS files” and “Aggregate JavaScript files” options.
+
+![image9](./img/2.1_image9.jpg)
+
+--------------------------------------------
+------- Remove anything after this line
+--------------------------------------------
 
 ### 2.4.2 Install for Commerce Development - Recommended (dev installation)
 
