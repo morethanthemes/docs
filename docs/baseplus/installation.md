@@ -4,24 +4,22 @@ sidebar_position: 2
 
 # 2. Installation
 
-Theme installation guidelines for Drupal 9. 
-There are two main ways to use Base+ Business: (1) install as a full-featured Drupal distribution, and (2) apply as a simple Drupal theme, on top of an existing Drupal 8 core installation.
+Webmaker+ installation guidelines for Drupal 9. 
 
 ## 2.1. Install as a full Drupal distribution (with all features as seen in demo)
 
-> At the end of the installation process documented below you will be able to log
-    in to your Drupal site as administrator. To login, once you install, go to <br></br> <br></br> 
-    /user/login url <br></br> <br></br>
-    and use the following credentials: <br></br>
-    u: **admin**,<br></br>
-    p: **password**
+> At the end of the installation process documented below you will be able to login to your Drupal site as administrator. 
+> 
+> To login, once you install, go to `/user/login` url and use the following credentials:
+> * u: `admin`
+> * p: `password`
 
 
-To install Base+ Business for Drupal 9, with the demo content and the full functionality, including Content types, Slider(s), Views pages and blocks, and special layouts, please follow the steps below.
+To complete and installation with the demo content and the full functionality, including Content types, Slider(s), Views pages and blocks, and special layouts, please follow the steps below.
 
-1. Place the included **“d9/full_installation/site”** folder under your Apache server path[^1].
+1. Place the included `full_installation/` folder under your Apache server path[^1].
 2. Create an empty MySQL database and **take note of the database name**.
-3. In your newly created database, import the **“d9/full_installation/database/db_instance.sql”** or the **“d9/full_installation/database/db_instance_pro.sql”** file (for the pro installation) that comes with the theme. The following screen shows the steps to do this through phpMyAdmin. If your hosting environment does not come with a similar tool installed please ask your hosting provider for assistance on how to import the database file.
+3. In your newly created database, import the `database/db_instance.sql` file. The following screen shows the steps to do this through phpMyAdmin. If your hosting environment does not come with a similar tool installed please ask your hosting provider for assistance on how to import the database file.
 
 ![image1](./img/2.1_image1.jpg)
 
