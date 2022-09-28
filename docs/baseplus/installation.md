@@ -47,11 +47,11 @@ If confronted with any **warnings**, click to continue with installation.
 
 ![image7](./img/2.1_image7.jpg)
 
-9. Once you are done with the above, please login to this site through the /user/login url and by using the following credentials:
-- username: **admin**
-- password: **password**
+9. Once you are done with the above, please login to this site through the `/user/login` url and by using the following credentials:
+- username: `admin`
+- password: `password`
 
-10. Navigate to **/admin/reports/status** and make sure that there are no errors regarding the “File system” item. In case of errors please make sure to resolve those and then clear the Drupal Cache.
+10. Navigate to `/admin/reports/status` and make sure that there are no errors regarding the “File system” item. In case of errors please make sure to resolve those and then clear the Drupal Cache.
 
 ![image8](./img/2.1_image8.jpg)
 
