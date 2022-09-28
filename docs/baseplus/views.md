@@ -13,7 +13,7 @@ Further to the default Views blocks, like
 - Who's new
 - Etc.,
 
-Webmaker+ distribution comes with many Views implementations, including pages and blocks, that enable you to automate the collection and presentation of information throughout the site. These Views are listed under
+Webmaker+ comes with many Views implementations, including pages and blocks, that enable you to automate the collection and presentation of information throughout the site. These Views are listed under
 
 
 `/admin/structure/views`

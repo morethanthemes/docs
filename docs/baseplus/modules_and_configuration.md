@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 4. Modules & Configuration
 
-Overview of the Drupal modules used in Webmaker+ distribution:
+Overview of the Drupal modules used in Webmaker+:
 
 - Superfish
 - Better Exposed Filters
@@ -30,7 +30,7 @@ Overview of the Drupal modules used in Webmaker+ distribution:
 
 ### 4.1.1. Superfish
 
-**Webmaker+ distribution** makes use of the Superfish module and the corresponding library to display multi-level menus. To use, simply add the corresponding superfish block to the region you want and Webmaker+ distribution will style the menu accordingly.
+**Webmaker+** makes use of the Superfish module and the corresponding library to display multi-level menus. To use, simply add the corresponding superfish block to the region you want and Webmaker+ will style the menu accordingly.
 
 
 The Superfish module also implements **a mobile menu** that is configured to activate in narrow screen widths (configured through the block settings).
@@ -109,7 +109,7 @@ You can configure the content and the messages of this features through:
 
 ## 4.3. Automated image generation and handling
 
-Under the hood, **Webmaker+ distribution** comes with pre-configured image presets ready to be used.
+Under the hood, **Webmaker+** comes with pre-configured image presets ready to be used.
 
 
 **All the content types** make use of this feature and **produce all necessary thumbnails and other derived images automatically**. 

@@ -7,13 +7,13 @@ sidebar_position: 3
 
 ## 3.1. Theme regions
 
-Webmaker+ distribution incorporates the **45 regions** shown below, to help you take advantage of the flexibility Drupal regions provide. 
+Webmaker+ incorporates the **45 regions** shown below, to help you take advantage of the flexibility Drupal regions provide. 
 
 ![image1](./img/3.1_image1.png)
 
 ## 3.2. Theme Settings
 
-Webmaker+ distribution comes with a great collection of theme settings, so that you can customize the looks, layout, interaction and functionality of your site through the Drupal admin user interface, without having to mess with the code (although that is always perfectly possible). 
+Webmaker+ comes with a great collection of theme settings, so that you can customize the looks, layout, interaction and functionality of your site through the Drupal admin user interface, without having to mess with the code (although that is always perfectly possible). 
 
 The theme comes with 11 main groups of theme settings: 
 - Basic Settings
@@ -33,7 +33,7 @@ All theme settings are available under the Appearance section, in the Drupal adm
 Home »  Administration »  Appearance »  Appearance settings
 
 **Important notice:** 
-With all theme settings, remember to hit “Save configuration” when you change something, to see your edits reflected on the site running Webmaker+ distribution.
+With all theme settings, remember to hit “Save configuration” when you change something, to see your edits reflected on the site running Webmaker+.
 
 
 ![image1](./img/3.2_image1.png)
@@ -73,7 +73,7 @@ Choose how to load the Bootstrap library. If you select "Local" make sure that y
 
 Select the color scheme you want to use, disable or enable full page border, change the outline style of various items, and select the animation properties of the links.
 
-Webmaker+ distribution comes in multiple built-in **curated color schemes** to help you style your site according to your preferences.
+Webmaker+ comes in multiple built-in **curated color schemes** to help you style your site according to your preferences.
 
 **Important notice:**
 All color schemes are developed in CSS3 code, without proprietary graphics or software and are therefore also endlessly customizable as detailed in the section “Customize the theme”, further below. 
@@ -85,7 +85,7 @@ Enables you to choose
 - Region specific layouts
 - Region specific background colors
 
-for your Webmaker+ distribution running site, as shown below, so as to enhance the user experience for your visitors.  
+for your Webmaker+ running site, as shown below, so as to enhance the user experience for your visitors.  
 
 With regard to animations in particular, you can choose among a number of built-in animation movements.
 
@@ -93,7 +93,7 @@ If you want to completely remove all animations, you can easily do so, by unchec
 
 ### 3.2.5. Article Features
 
-Webmaker+ distribution incorporates some of the most popular accessibility features for your visitors, like
+Webmaker+ incorporates some of the most popular accessibility features for your visitors, like
 
 - Post views
 - Time to read
@@ -109,7 +109,7 @@ This specific theme settings allows you to apply the normal (Wide) layout of the
 
 ### 3.2.7. Font Settings
 
-Webmaker+ distribution comes with multiple built-in **curated font options**, to help you style your site according to your preferences. Based on design quality and the number of characters and language coverage, we have selected several dozens of the most high quality freely available fonts, so you don’t have to lose time experimenting yourselves.  
+Webmaker+ comes with multiple built-in **curated font options**, to help you style your site according to your preferences. Based on design quality and the number of characters and language coverage, we have selected several dozens of the most high quality freely available fonts, so you don’t have to lose time experimenting yourselves.  
 
 **Advice:** <br></br>
 It’s generally considered a good typographic advice to use as few fonts as possible and try to provide a visual hierarchy by using HTML tags, spacing and proper line-height, which are all built into the theme. 
@@ -123,7 +123,7 @@ If the font you wish to use is not available through these theme setting, you co
 
 ### 3.2.8. Slideshow settings
 
-Webmaker+ distribution comes with the following well-known, widely used sliders:
+Webmaker+ comes with the following well-known, widely used sliders:
 - The Open Source Flexslider
 - The Commercial Slider Revolution
 - Owl Carousel
@@ -140,7 +140,7 @@ The settings you can choose among include
 
 ### 3.2.9. Isotope Filters
 
-Webmaker+ distribution comes with the Isotope views as mentioned in [the corresponding section below](views#61-isotope).
+Webmaker+ comes with the Isotope views as mentioned in [the corresponding section below](views#61-isotope).
 
 You can change the layout of these views (as initialized in the js implementation) as well as the text for the filter option that displays all the items in the view.
 

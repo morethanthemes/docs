@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # 5. Content Types
 
-**Webmaker+ distribution** comes with eight, special built-in Content types:
+**Webmaker+** comes with eight, special built-in Content types:
 
 - Album
 - Layouting Canvas
@@ -15,7 +15,7 @@ sidebar_position: 5
 - Team member
 - Testimonial
 
-Of course, **Webmaker+ distribution** also supports the default Drupal content types: Article, Basic page etc.
+Of course, **Webmaker+** also supports the default Drupal content types: Article, Basic page etc.
 
 ## 5.1. Album
 
