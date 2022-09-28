@@ -16,7 +16,7 @@ The Webmaker+ Pro product pack contains the following:
 
 ## 1.2 Credits
 
-- [Drupal 9]([https://www.drupal.org/8](https://www.drupal.org/about/9))
+- [Drupal 9](https://www.drupal.org/about/9)
 - [Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-jquery-plugin/2580848)
 - [Flexslider](https://github.com/woothemes/FlexSlider)
 - [Bootstrap](http://getbootstrap.com)
