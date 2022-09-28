@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # 7. Custom Block Types
 
-Webmaker+ distribution comes with twenty one, special built-in custom Block types. You can find these blocks if you navigate to structure > block layout > Custom block library.
+Webmaker+ comes with twenty one, special built-in custom Block types. You can find these blocks if you navigate to structure > block layout > Custom block library.
 
 To use them, just place the desired block in the region of your choice.
 
