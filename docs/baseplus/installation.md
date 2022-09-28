@@ -6,8 +6,6 @@ sidebar_position: 2
 
 Webmaker+ installation guidelines for Drupal 9. 
 
-## 2.1. Install as a full Drupal distribution (with all features as seen in demo)
-
 > At the end of the installation process documented below you will be able to login to your Drupal site as administrator. 
 > 
 > To login, once you install, go to `/user/login` url and use the following credentials:
@@ -15,7 +13,8 @@ Webmaker+ installation guidelines for Drupal 9.
 > * p: `password`
 
 
-To complete and installation with the demo content and the full functionality, including Content types, Slider(s), Views pages and blocks, and special layouts, please follow the steps below.
+## 2.1. Installation on a LAMP stack or a typical hosting environment.
+To complete and installation please follow the steps below:
 
 1. Place the included `full_installation/` folder under your Apache server path[^1].
 2. Create an empty MySQL database and **take note of the database name**.
@@ -70,70 +69,33 @@ To do so, navigate to **/admin/config/development/performance** and enable cachi
 
 
 
-## 2.2. Install as a simple theme over existing Drupal site
+### 2.2 Installation with DDEV
+> [DDEV](https://ddev.readthedocs.io/) is an open source tool that makes it dead simple to get local PHP development environments up and running within minutes. It's powerful and flexible as a result of its per-project environment configurations, which can be extended, version controlled, and shared. In short, DDEV aims to allow development teams to use Docker in their workflow without the complexities of bespoke configuration.
 
-1. Open the **simple_theme_installation/theme** folder, that came in the pack.
-2. If working on a local environment, copy the **“baseplus”** folder. If working directly on your web environment, select the **“baseplus”** folder in order to upload it in the next step.
-3. Paste or upload the **“baseplus”** folder into the corresponding path **themes » custom**, in your existing Drupal 8 installation. If you don’t have a “custom” folder under themes, it’s strongly recommended to create one.
-4. Log in to your existing Drupal 8 installation as admin, with your credentials.
-5. Browse to the **"Appearance"** section of the Drupal admin environment.
-6. Find the theme and activate it by clicking “install”.
-7. Click “Set as default” to make it your default theme.
-8. Browse to the homepage, then hit "refresh" in your browser. You should now see your site styled using Base+.
+We strongly recommend using DDEV in your local environment for development. 
 
-## 2.3. Install over existing Drupal installation, with the special features
+Before you start, please ensure that [DDEV](https://ddev.readthedocs.io/en/latest/users/install/) is properly installed in your system. 
 
-Important notice: It is strongly recommended that you execute the instructions below on **a cloned instance of your production site.** This is the safest way to handle this, ensuring that your production site remains unaffected if you make any mistakes in any of the steps below.
+Installation steps:
+* Navigate into the `full_installation/` folder
+* Initialize DDEV: `ddev config`
+* Select a project name and the platform as follow:
 
-1. Start by creating a **full installation** of your purchased theme product, with its content types, Views blocks and pages and special features, as advised in section 2.1. This will be used for reference and exporting features only and can therefore be installed on your test dev environment.
-2. Copy the simple Drupal theme from your full product installation above or from the product folder you downloaded, into the clone of your existing Drupal installation, then activate the theme, as described in section **2.2**. Your existing Drupal installation should be now re-styled according to the looks of your purchased product. However, the parts of the purchased theme product that you are still not seeing are:<br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp;a. Special Content Types<br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp;b. Special Views and Blocks<br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp;c. Special Menus<br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp;d. Other Special features
+```bash
+Project name (full_installation): Webmaker
+Docroot Location (current directory):
+Project Type [backdrop, drupal6, drupal7, drupal8, drupal9, laravel, magento, magento2, php, shopware6, typo3, wordpress] (drupal9):
+```
+* Start the environment: `ddev start`
+* Import the database: `ddev import-db`
+* In the following prompt, provide a relative path to the `db_instance.sql` file. e.g. `../database/db_instance.sql`
+* Open a browser: `ddev launch` 
 
-3. Install the theme required libraries. Just copy the  content of the **d9/simple_theme_installation/libraries** folder of the theme pack into the **libraries** folder of your installation. If your installation does not have a libraries folder please create it.
-4. Install the theme required modules. Just copy the content of **d9/simple_theme_installation/modules** folder of the theme pack into the modules folder of your installation. Finally enable those modules through the Drupal administration interface.
-5. Adjust Image styles through Home » Administration » Configuration » Media » Image Styles. Use the full installation of the product mentioned in step 1 for reference:<br></br>
-
- Home » Administration » Configuration » Media » Image Styles
-
-6. Reproduce all custom Content Types by using the full installation as a reference to guide you. Make sure you are ***using the same machine names for the content type and the fields of the content type***.
-
- Use the full installation of the product mentioned in step 1 for reference.
-
- Finally make sure that you have also reproduced the display settings in the **“Manage form display”** and **“Manage display”** tabs as well as for the **teaser** and **default** display.
-
-7. Export all the views from the **full installation** created on step 1 and import the views in your main installation.
-
-Navigate to
-
-Home » Administration » Configuration » Development » Synchronize » Import
-
-and select the single item tab. Make sure you select the “View” configuration type, paste the content of each .yml file into the text area and save the configuration. You will have to do this for each file you exported.
-
-![image1](./img/2.3_image1.png)
-
-8. Reproduce all custom block types by using the full installation as a reference to guide you. Navigate to Home » Administration » Structure » Block layout » Custom block library and select the **Types** tab.
-
- Make sure you are ***using the same machine names for the custom block type as well as the corresponding fields.*** This procedure is similar to step 6 above.
-
- Finally make sure that you have also reproduced the display settings in the **“Manage form display”** and **“Manage display”** tabs.
-9. Configure your existing blocks to make use of the new regions the premium theme provides. You can use multiple instances of the various blocks, as well.
+#### Install Drush and Login without credentials
+* Require `drush`: `ddev composer require drush/drush`
+* Get an one time login URL: `ddev drush uli` 
 
 
-## 2.4 Install Drupal Commerce
-
-The pack contains two installation options for the Flashy+ commerce distribution. The full installation under the **flashyplus_commerce/d9/full_installation** path and the dev installation under the **flashyplus_commerce/d9/dev_installation** path. The full_installation is provided for demonstration purposes only. Consider using the  dev_installation for development.
-
-### 2.4.1 Install as a full Drupal Distribution (full installation)
-
-This section explains how to perform the full installation for demonstration purposes only.
-Commerce 2.x should only be installed via Composer. The files on this pack are provided for demonstration purposes only.<br></br>
-https://www.drupal.org/project/commerce
-
-This installation method does not require the Composer dependency manager. All dependencies are pre-installed and all you need to do is to import the database and start the  Drupal installation wizard as in section:
-[2.1. Install as a full Drupal distribution (with all features as seen in demo)](#21-install-as-a-full-drupal-distribution-with-all-features-as-seen-in-demo) 
 
 ### 2.4.2 Install for Commerce Development - Recommended (dev installation)
 
