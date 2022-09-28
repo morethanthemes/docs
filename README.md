@@ -1,41 +1,17 @@
-# Website
+# Webmaker+ documentation
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Run the site locally
 
-### Installation
+1. Clone the repository with:
+    `git clone git@github.com:morethanthemes/docs.git`
+2. Inside the created folder install all the necessary packages with:
+    `npm install`
+3. Now you can start the website with:
+    `npm run start`
 
-```
-$ yarn
-```
+The website should be running at http://localhost:3000/mtt-docs/.
 
-### Local Development
+## Deployment
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Everytime some changes get pushed or merged to the master branch, the deployment branch 
+gets these changes so they are immediately deployed to the live site https://radon.morethanthemes.com/mtt-docs.
