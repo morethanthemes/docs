@@ -47,7 +47,7 @@ If confronted with any **warnings**, click to continue with installation.
 ![image7](./img/2.1_image7.jpg)
 
 
-### 2.2 Installation with DDEV
+## 2.2 Installation with DDEV
 > [DDEV](https://ddev.readthedocs.io/) is an open source tool that makes it dead simple to get local PHP development environments up and running within minutes. It's powerful and flexible as a result of its per-project environment configurations, which can be extended, version controlled, and shared. In short, DDEV aims to allow development teams to use Docker in their workflow without the complexities of bespoke configuration.
 
 We strongly recommend using DDEV in your local environment for development. 
@@ -69,7 +69,7 @@ Project Type [backdrop, drupal6, drupal7, drupal8, drupal9, laravel, magento, ma
 * In the following prompt, provide a relative path to the `db_instance.sql` file. e.g. `../database/db_instance.sql`
 * Open a browser: `ddev launch` 
 
-#### Install Drush and Login without credentials
+### Install Drush and Login without credentials
 * Require `drush`: `ddev composer require drush/drush`
 * Get an one time login URL: `ddev drush uli` 
 
