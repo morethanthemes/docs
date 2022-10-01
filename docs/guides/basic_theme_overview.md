@@ -9,7 +9,7 @@ sidebar_position: 3
 
 Webmaker+ incorporates the **45 regions** shown below, to help you take advantage of the flexibility Drupal regions provide. 
 
-![image1](./img/3.1_image1.png)
+![image1](../img/3.1_image1.png)
 
 ## 3.2. Theme Settings
 
@@ -36,7 +36,7 @@ Home »  Administration »  Appearance »  Appearance settings
 With all theme settings, remember to hit “Save configuration” when you change something, to see your edits reflected on the site running Webmaker+.
 
 
-![image1](./img/3.2_image1.png)
+![image1](../img/3.2_image1.png)
 
 
 
