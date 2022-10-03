@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2022 morethanthemes.com - Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} morethanthemes.com - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
