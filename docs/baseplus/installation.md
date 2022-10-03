@@ -23,31 +23,31 @@ To complete and installation please follow the steps below:
 2. Create an empty MySQL database and **take note of the database name**.
 3. In your newly created database, import the `database/db_instance.sql` file. The following screen shows the steps to do this through phpMyAdmin. If your hosting environment does not come with a similar tool installed please ask your hosting provider for assistance on how to import the database file.
 
-![image1](./img/2.1_image1.jpg)
+![image1](../img/2.1_image1.jpg)
 
 4. Start the Drupal installation wizard by pointing your browser to the recently created folder, in your Apache server path.
 
-![image2](./img/2.1_image2.jpg)
+![image2](../img/2.1_image2.jpg)
 
 5. Continue the installation by selecting the "Standard" installation profile.
 
-![image3](./img/2.1_image3.jpg)
+![image3](../img/2.1_image3.jpg)
 
 If confronted with any **warnings**, click to continue with installation.
 
-![image4](./img/2.1_image4.png)
+![image4](../img/2.1_image4.png)
 
 6. Enter your recently created database information. This includes the database name and credentials (username/password) you have chosen when creating it, spelled exactly as in step 3 above.
 
-![image5](./img/2.1_image5.jpg)
+![image5](../img/2.1_image5.jpg)
 
 7. The installation wizard will recognize that you are using an already populated database and will inform you accordingly. At the same time, the wizard should create all the necessary files your Drupal site needs in order to work properly on your server.
 
-![image6](./img/2.1_image6.jpg)
+![image6](../img/2.1_image6.jpg)
 
 8. You are done. Click on the "visit existing site" link, to visit your new site.
 
-![image7](./img/2.1_image7.jpg)
+![image7](../img/2.1_image7.jpg)
 
 
 ## 2.2 Installation with DDEV
@@ -85,7 +85,7 @@ Once you are done with the above, please login to this site through the `/user/l
 ### Check the Status Report
 1. Navigate to `/admin/reports/status` and make sure that there are no errors regarding the “File system” item. In case of errors please make sure to resolve those and then clear the Drupal Cache.
 
-![image8](./img/2.1_image8.jpg)
+![image8](../img/2.1_image8.jpg)
 
 Other errors may exist and should also be taken care of.
 
@@ -101,7 +101,7 @@ Either right after installation, or when you finish building your Drupal site us
 
 To do so, navigate to `/admin/config/development/performance` and enable caching (default option: 15 min) as well as the “Aggregate CSS files” and “Aggregate JavaScript files” options.
 
-![image9](./img/2.1_image9.jpg)
+![image9](../img/2.1_image9.jpg)
 
 --------------------------------------------
 ------- Remove anything after this line
