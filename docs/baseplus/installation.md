@@ -6,12 +6,15 @@ sidebar_position: 2
 
 Webmaker+ installation guidelines for Drupal 9. 
 
-> At the end of the installation process documented below you will be able to login to your Drupal site as administrator. 
-> 
-> To login, once you install, go to `/user/login` url and use the following credentials:
-> * u: `admin`
-> * p: `password`
+:::tip
 
+At the end of the installation process documented below you will be able to login to your Drupal site as administrator. 
+
+To login, once you install, go to `/user/login` url and use the following credentials:
+* u: `admin`
+* p: `password`
+
+:::
 
 ## 2.1. Installation on a LAMP stack or a typical hosting environment.
 To complete and installation please follow the steps below:
