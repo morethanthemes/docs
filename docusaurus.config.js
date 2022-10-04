@@ -93,16 +93,28 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/morethan.just.themes/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/morethanthemes/',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/more-than-themes/',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/user/morethanthemes/videos',
+              },
+              {
+                label: 'Medium',
+                href: 'https://medium.com/drupal-themes',
+              },
+              {
+                label: 'Behance',
+                href: 'https://www.behance.net/morethanthemes',
               },
             ],
           },
