@@ -12,7 +12,9 @@ A Drupal 9 theme distribution built on a deliberately barebones style guide. Sub
 
 ![base+ image](https://demo.morethanthemes.com/baseplus-business/default/sites/default/files/custom-blocks/homepage-landing-page-2.png)
 
-Check out the **Base+** demo [here](https://base.webmaker.plus/).
+
+<a className="button button--secondary button--lg" href="https://base.webmaker.plus/">
+Try it out! </a>
 
 ## Clean+
 
@@ -20,7 +22,9 @@ A Drupal 9 theme distribution with a clean, modern design and a great set of fea
 
 ![clean+ image](https://demo.morethanthemes.com/cleanplus-business/default/sites/default/files/custom-blocks/homepage-landing-page-6.png)
 
-Check out the **Clean+** demo [here](https://clean.webmaker.plus/).
+
+<a className="button button--secondary button--lg" href="https://clean.webmaker.plus/">
+Try it out! </a>
 
 ## Corporate+
 
