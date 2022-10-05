@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/mtt-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/mtt_favicon_32x32.gif',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'Webmaker+',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'More Than Themes logo',
+          src: 'img/mtt_themes_logo.png',
         },
         items: [
           {
