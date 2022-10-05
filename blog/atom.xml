@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/mtt-docs/blog"/>
     <subtitle>Webmaker+ Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/mtt-docs/img/mtt_favicon_32x32.gif</icon>
+    <icon>https://your-docusaurus-test-site.com/mtt-docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
