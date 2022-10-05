@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'Webmaker+',
         logo: {
-          alt: 'More Than Themes logo',
+          alt: 'More than Themes',
           src: 'img/mtt_themes_logo.png',
         },
         items: [
