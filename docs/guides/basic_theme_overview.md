@@ -101,7 +101,7 @@ Webmaker+ incorporates some of the most popular accessibility features for your 
 - Reading Progress
 - Share and Print links
 
-Not only these give your Drupal 8 site a sense of professionalism, but they are also essential for your visitors that are reading your content.
+Not only these give your Drupal 9 site a sense of professionalism, but they are also essential for your visitors that are reading your content.
 
 ### 3.2.6. Theme Layout
 
