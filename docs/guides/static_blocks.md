@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# 8. Static Blocks
+# Static Blocks
 
 With Webmaker+ and Drupal 9 you can create new blocks and place them wherever you want in your site. You can also place multiple instances of those, as well, as described above.
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 
 
-# 9.3. Allow blocks to be referenced through custom block type fields
+# Allow blocks to be referenced through custom block type fields
 
 In order to be able to reference and display a block though a custom block reference field you should first assign it to a region. We have created the “Hidden blocks collection” region exactly for this reason. 
 Blocks assigned to this region will not be printed through the theme but will be available to reference through the custom block types and will be displayed based on the custom block visibility configuration. 
