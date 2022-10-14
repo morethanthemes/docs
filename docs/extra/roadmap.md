@@ -2,6 +2,6 @@
 sidebar_position: 10
 ---
 
-# 10. Roadmap
+# Roadmap
 
 ## Webmaker+ 9.x.x

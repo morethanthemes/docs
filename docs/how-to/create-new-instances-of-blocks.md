@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 
-# 9.2. Create new instances (clones) of existing blocks and assign them to regions
+# Create new instances (clones) of existing blocks and assign them to regions
 
 Drupal 9 comes by default with a feature that allows you to create new instances of existing blocks and assign those in the theme regions.
 
@@ -16,6 +16,6 @@ Drupal 9 comes by default with a feature that allows you to create new instances
 6. Configure the block as you would do with any other block
 7. Save your configuration
 
-## 9.2.1. Remove blocks from regions
+## Remove blocks from regions
 
 In Drupal 9 in order to remove a block from a region you should just delete it from the regions page. If you need to place the block in the future you could follow the above procedure to create a new instance of this block.

@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# 9.1. Add a new Album node
+# Add a new Album node
 
 1. Select "Add Content" and click on the corresponding option
 2. Enter a title

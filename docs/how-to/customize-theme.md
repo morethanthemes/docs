@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 
-# 9.4. Customize the theme
+# Customize the theme
 
 The theme style is written in a [SMACSS-inspired](https://www.google.com/url?q=https://smacss.com/&sa=D&source=editors&ust=1664361389196453&usg=AOvVaw1apL3dJ85YCp3isZ5bTTQL) approach and is very modular. According to this architecture we have added a local css file for each CSS category that overrides the corresponding category CSS rules.
 
