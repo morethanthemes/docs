@@ -140,7 +140,7 @@ The settings you can choose among include
 
 ### 2.9. Isotope Filters
 
-Webmaker+ comes with the Isotope views as mentioned in [the corresponding section below](../extra/views#61-isotope).
+Webmaker+ comes with the Isotope views as mentioned in [the corresponding section below](../extra/views#1-isotope).
 
 You can change the layout of these views (as initialized in the js implementation) as well as the text for the filter option that displays all the items in the view.
 
