@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/morethanthemes/docs/tree/master/',
+            'https://github.com/morethanthemes/docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
