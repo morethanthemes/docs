@@ -17,49 +17,49 @@ sidebar_position: 5
 
 Of course, **Webmaker+** also supports the default Drupal content types: Article, Basic page etc.
 
-## 1. Album
+## Album
 
 Ideal for posts that present photos of your event. Examples of this could be photo albums of a Welcome/Reception event, or a Closing session. Albums support multiple images, which along with auto-generated thumbnails, are automatically adjusted to fit into the website layout, wherever needed.
 
-## 2. Article
+## Article
 
 Use *articles* for time-sensitive content like news, press releases or blog posts.
 
-## 3. Basic Page
+## Basic Page
 
 Use *basic pages* for your static content, such as an 'About us' page.
 
-## 4. Landing Page
+## Landing Page
 
 Usefull for creating the landing pages of your website.
 
-## 5. Layouting Canvas
+## Layouting Canvas
 
 Ideal for laying out custom pages using HTML and the short codes provided with the product. It is based on the Basic Page content type and features a full-width 12-column grid.
 
-## 6. Layout Page
+## Layout Page
 
-## 7. Post
+## Post
 
 Use the Post content type to create and publish articles making use of all the special functionality built into the Flashy+ theme.
 
-## 8. Product
+## Product
 
 A Product post is ideal for creating and showcasing your products. It comes with the option to be featured at the front page slide show. It also provides the ability to attach one main product image, which is automatically adjusted to fit into the website layout. Further to that, what’s a particularly great time-saver about a Product post, is that it provides the ability to attach a series of images, thumbnails of which are automatically created and adjusted to fit into the website layout, wherever needed.
 
-## 9. Service
+## Service
 
 A Service post is ideal for creating and displaying services. It has the option to be displayed into front page slide show. It provides the ability to attach an image which is automatically adjusted to fit into the websites layout. What’s particularly cool about a Service post, is that it provides the ability to attach a series of images, thumbnails of which are automatically created and adjusted to fit into the website layout. Service post enables free tagging (just like labels), taking the bests from the taxonomy system.
 
-## 10. Showcase
+## Showcase
 
 The Testimonial entry is perfect to showcase the words of love from your users and customers. Use it to easily publish testimonials on your site. A special View Block and a View Page are already configured to show them off perfectly.
 
-## 11. Team Member
+## Team Member
 
 The Team member post is ideal for creating a page for each of your team members. Along with a description of your team member’s position, responsibilities and qualifications, it provides the ability to attach an image, which is automatically adjusted to fit into the website’s layout. And what’s great about Team member posts, is that they are all collected under the “About us” page.
 
-## 12. Testimonial
+## Testimonial
 
 The Testimonial entry is perfect to showcase the words of love from your users and customers. Use it to easily publish testimonials on your site. A special View Block and a View Page are already configured to show them off perfectly.
 
