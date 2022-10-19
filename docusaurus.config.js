@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Webmaker+',
-  tagline: 'Simply, the best site builder for a reason',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Simply, the best site builder, for a reason!',
+  url: 'https://docs.webmaker.plus/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
