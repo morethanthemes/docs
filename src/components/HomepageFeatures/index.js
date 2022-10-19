@@ -9,7 +9,7 @@ const FeatureList = [
     link: 'docs/baseplus/installation',
     description: (
       <>
-        Install Webmaker+ on a typical hosting environment or with DDEV.
+        How to install and get started with Webmaker+.
       </>
     ),
   },
