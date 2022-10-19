@@ -77,40 +77,4 @@ Project Type [backdrop, drupal6, drupal7, drupal8, drupal9, laravel, magento, ma
 * Get an one time login URL: `ddev drush uli` 
 
 
-
---------------------------------------------
-------- Remove anything after this line
---------------------------------------------
-
-### 2.4.2 Install for Commerce Development - Recommended (dev installation)
-
-This is a Composer based development workflow.
-
-#### Before you start
-
-Make sure that you read the article “[Using Composer to manage Drupal site dependencies](https://www.drupal.org/node/2718229)” at Drupal.org, in order to understand the requirements and procedures of managing a site with Composer:<br></br>
-
-https://www.drupal.org/node/2718229
-
-Prepare your environment
-
-1. Make sure that our server is running PHP 7.4 or PHP 8.0. For more information visit:<br></br> 
-https://www.drupal.org/docs/system-requirements/php-requirements
-2. Install Composer on your machine. For more information, visit:<br></br> 
-https://getcomposer.org/doc/00-intro.md
-
-#### Installation steps
-
-
-1. Place the included “**d9/dev_installation/site**” folder under your Apache server path[^1].
-2. Create an empty MySQL database and take note of the database name.
-3. In your newly created database, import the “**d9/dev_installation/database/db_instance_pro.sql**” file that comes with the theme. For additional information, please ask your hosting provider for assistance on how to import the database file.
-4. Require the dependencies. All dependencies, the Drupal core and the contributed modules are managed by Composer
-
-    - Download Drupal Core and Modules:
-            Change directory to web root and execute the following command:<br></br>
-            ``composer install``
-
-5. Start the Drupal installation wizard by pointing your browser to the recently created folder, in your Apache server path.
-
 [^1]: How to find your Apache server path: if you are deploying online, your hosting provider should be able to provide you this. If you are deploying locally, it will be where your XAMPP or MAMP installation is configured to look into (e.g.: htdocs, in the case of MAMP on Mac OS X).
