@@ -119,7 +119,7 @@ Because sometimes, though, you may want to use more than one fonts, the typograp
 **Important notice:** <br></br>
 All typographic selections are developed in CSS3 code, without commercial fonts or software and are therefore also endlessly customizable as detailed in the section “Customize the theme”, further below. 
 
-If the font you wish to use is not available through these theme setting, you could use the included @font-your-face module to import and use any font you wish. You can find out more on how to use this at [the corresponding how to topic below].
+If the font you wish to use is not available through these theme setting, you could use the included `@font-your-face` module to import and use any font you wish. You can find out more on how to use this at [the corresponding how to topic below].
 
 ### 2.8. Slideshow settings
 
