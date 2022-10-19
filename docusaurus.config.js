@@ -9,7 +9,7 @@ const config = {
   title: 'Webmaker+',
   tagline: 'Simply, the best site builder for a reason',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/mtt-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/mtt_favicon_32x32.gif',
