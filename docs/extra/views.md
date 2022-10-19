@@ -21,7 +21,7 @@ Webmaker+ comes with many Views implementations, including pages and blocks, tha
 
 Every one of those is also editable via the front-end interface, when logged in as Drupal admin, by clicking the corresponding action link, when hovering, as shown below:
 
-## 1. Isotope
+## Isotope
 
 This view consist of 3 different pages that each displays the corresponding nodes in a grid layout with additional Isotope filters at the top. There is one page for each of the “Accommodation”, “Album” and “Merchandise” content types.
 
@@ -34,27 +34,27 @@ This view consist of 3 different pages that each displays the corresponding node
 
 [/showcases-isotope](https://www.google.com/url?q=https://demo.morethanthemes.com/baseplus-business/default/showcases-isotope&sa=D&source=editors&ust=1664361389166127&usg=AOvVaw2HfDvClKtOzXz_94z-GmqK)
 
-## 2. Latest
+## Latest
 
 This view consists of four separate view blocks that each displays the latest nodes of the corresponding content type. There are view blocks available for the “Article”, “Products” and “Service” content types.
 
-## 3. Popular Tags
+## Popular Tags
 
 This view block collects and displays all the taxonomy terms used on the site, sorted from the most to the least used.
 
-## 4. Pricing tables
+## Pricing tables
 
 Collects and displays the latest Merchandise nodes in a pricing table style. There are 2, 3 and 4 column view blocks available. You can also find the corresponding view page under:
 
 
 [/pricing-tables](https://www.google.com/url?q=https://demo.morethanthemes.com/baseplus-business/default/pricing-tables&sa=D&source=editors&ust=1664361389167196&usg=AOvVaw1NqYvKYAp_5u3LTN8vtfNf)
 
-## 5. Related nodes
+## Related nodes
 
 There are view blocks that display related products based on the
 product content type.
 
-## 6. Albums
+## Albums
 
 Collects and displays Album nodes in the corresponding grid style. The available options are available at the following pages:
 
@@ -67,7 +67,7 @@ Collects and displays Album nodes in the corresponding grid style. The available
 
 [/albums-isotope](https://www.google.com/url?q=https://demo.morethanthemes.com/baseplus-business/default/albums-isotope&sa=D&source=editors&ust=1664361389169117&usg=AOvVaw0K1YftVSRXAQ8kan_OyUx3)
 
-## 7. Slideshow
+## Slideshow
 
 Collects and displays nodes that are marked as promoted to slideshow. There are 3 different flavours of the slideshow,  Boxed, Full screen and Full width. You can see each of these blocks at the corresponding demonstration pages:
 
@@ -78,7 +78,7 @@ Collects and displays nodes that are marked as promoted to slideshow. There are 
 
 [Full Screen](https://www.google.com/url?q=https://demo.morethanthemes.com/baseplus-business/default/fullscreen-slideshow&sa=D&source=editors&ust=1664361389170549&usg=AOvVaw0QviSxNm0n3RQ29lfVPsmM)
 
-### 7.1 Configuration
+### Configuration
 
 In this theme, these three slideshow implementations are initialized in the twig template and the javascript files available under the paths:
 
@@ -102,7 +102,7 @@ For more information, and all the available options, please refer to the officia
 - [https://www.themepunch.com/revsliderjquery-doc/slider-revolution-jquery-5-x-documentation/](https://www.themepunch.com/revsliderjquery-doc/slider-revolution-jquery-5-x-documentation/)
 
 
-## 8. Team members
+## Team members
 
 Collects and displays “Team Member” nodes in a grid layout or as a list. You can find the corresponding view pages under:
 
@@ -113,7 +113,7 @@ Collects and displays “Team Member” nodes in a grid layout or as a list. You
 
 [/team-members-masonry](https://www.google.com/url?q=https://demo.morethanthemes.com/baseplus-business/default/team-members-masonry&sa=D&source=editors&ust=1664361389173601&usg=AOvVaw1XFpizm3cb26a0tLsHCcjU)
 
-## 9. Testimonials
+## Testimonials
 
 Collects and displays testimonials nodes in a simple and stylish list. There is also available a simple view block that displays the last 2 testimonials as well as Slideshow powered view block that loops through all of them. The view pages are accessible through:
 
@@ -126,7 +126,7 @@ Collects and displays testimonials nodes in a simple and stylish list. There is 
 
 [/testimonials-masonry](https://www.google.com/url?q=https://demo.morethanthemes.com/baseplus-business/default/testimonials-masonry&sa=D&source=editors&ust=1664361389175176&usg=AOvVaw3Hxn1UdengCG8RApQTAtV_)
 
-## 10. Products
+## Products
 
 Collects and displays Product nodes in the corresponding grid style. The available options are available at the following pages:
 

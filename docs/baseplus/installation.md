@@ -16,7 +16,7 @@ To login, once you install, go to `/user/login` url and use the following creden
 
 :::
 
-## 1. Installation on a LAMP stack or a typical hosting environment.
+## Installation on a LAMP stack or a typical hosting environment.
 To complete and installation please follow the steps below:
 
 1. Place the included `full_installation/` folder under your Apache server path[^1].
@@ -50,7 +50,7 @@ If confronted with any **warnings**, click to continue with installation.
 ![image7](../img/2.1_image7.jpg)
 
 
-## 2. Installation with DDEV
+## Installation with DDEV
 > [DDEV](https://ddev.readthedocs.io/) is an open source tool that makes it dead simple to get local PHP development environments up and running within minutes. It's powerful and flexible as a result of its per-project environment configurations, which can be extended, version controlled, and shared. In short, DDEV aims to allow development teams to use Docker in their workflow without the complexities of bespoke configuration.
 
 We strongly recommend using DDEV in your local environment for development. 

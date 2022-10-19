@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-## 1. What’s in the Pack
+## What’s in the Pack
 
 The Webmaker+ Pro product pack contains the following:
 
@@ -14,7 +14,7 @@ The Webmaker+ Pro product pack contains the following:
 - All the related assets: HTML5, CSS3, JS, PHP code;
 - The License information and references to third-party licenses [licenses], wherever needed.
 
-## 2 Credits
+## Credits
 
 - [Drupal 9](https://www.drupal.org/about/9)
 - [Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-jquery-plugin/2580848)
