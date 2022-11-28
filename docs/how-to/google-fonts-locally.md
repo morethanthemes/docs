@@ -1,9 +1,9 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 
-# How to host Google fonts locally
+# Host Google fonts locally
 
 The guide provides step-by-step instructions for hosting Google fonts on your own web server. The steps below refer to the Base+ theme and the PT Serif font, as an example, but they can be applied to any other font loaded in our theme distributions.
 
