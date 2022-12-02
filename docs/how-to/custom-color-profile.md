@@ -13,33 +13,11 @@ You can make changes to the colors of the website to make it unique and more per
 
 ![color-local-selection](../img/color-local-selection.png)
 
-This will activate the file `css/theme/color-local.css`.
+This will activate the file `css/theme/color-local.css`. It comes with the default theme colors.
 
-## Adjust the colors
+## Apply new custom color palette
 
-In the file `css/theme/color-local.css` you can find some basic sections of your website:
-- Base color
-- Primary color
-- Accent color
-- Secondary color
-- Tint background
-- Shade background
-- Dark colored background
-- Colored background
-- Bright background
-- Dark background
-- Pattern background
-- Default background
-- Success
-- Danger
-- Warnings
-- Forms
-
-The colors of these sections can be customized by changing their hex values. For example, with the Elegant+ theme, the website by default looks like this:
-
-![color-local-before](../img/color-local-before.png)
-
-And the file `css/theme/color-local.css` looks like this:
+You can do that by changing the color values that exist in the file mentioned above. For example, the file `css/theme/color-local.css` that Elegant+ theme comes with has the values shown below:
 
 ![color-local-code-before](../img/color-local-code-before.png)
 
@@ -57,10 +35,6 @@ Now we will change the following sections:
     - change **--mt-color-secondary-dark** from `#1e126e` to `#6e1212`
     - change **--mt-color-secondary-light** from `#8a7bea` to `#ea7b7b`
 
-After the changes, the file `css/theme/color-local.css` looks like this:
+After the changes, the file `css/theme/color-local.css` should look like this:
 
 ![color-local-example-code](../img/color-local-code-result.png)
-
-And the website looks like this:
-
-![color-local-example-result](../img/color-local-example-result.png)
