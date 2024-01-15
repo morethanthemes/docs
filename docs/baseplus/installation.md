@@ -65,7 +65,7 @@ Installation steps:
 ```bash
 Project name (full_installation): Webmaker
 Docroot Location (current directory):
-Project Type [backdrop, drupal6, drupal7, drupal8, drupal9, laravel, magento, magento2, php, shopware6, typo3, wordpress] (drupal9):
+Project Type [backdrop, craftcms, django4, drupal10, drupal6, drupal7, drupal8, drupal9, laravel, magento, magento2, php, python, shopware6, silverstripe, typo3, wordpress] (drupal10):
 ```
 * Start the environment: `ddev start`
 * Import the database: `ddev import-db`
