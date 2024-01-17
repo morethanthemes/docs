@@ -28,7 +28,7 @@ The file structure should look as in the following screen capture:
 
 ## Download the Google font using the webfonts-helper
 
-1. Visit the google-webfonts-helper tool: https://google-webfonts-helper.herokuapp.com/fonts .
+1. Visit the google-webfonts-helper tool: https://gwfh.mranftl.com/fonts.
 2. Pick the desired font.
 3. <p></p>Choose the charset and the styles you want to use for this font.
 <details>
