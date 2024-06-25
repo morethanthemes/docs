@@ -1,0 +1,23 @@
+{
+  "unversionedId": "changelog",
+  "id": "changelog",
+  "title": "What's New in Webmaker+ Pro",
+  "description": "Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.",
+  "source": "@site/docs/changelog.md",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/docs/changelog",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/changelog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "sidebar_position": 99
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/extra/roadmap"
+  }
+}

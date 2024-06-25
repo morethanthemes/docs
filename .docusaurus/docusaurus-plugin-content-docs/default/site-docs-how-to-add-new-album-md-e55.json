@@ -1,0 +1,27 @@
+{
+  "unversionedId": "how-to/add-new-album",
+  "id": "how-to/add-new-album",
+  "title": "Add a new Album node",
+  "description": "1. Select \"Add Content\" and click on the corresponding option",
+  "source": "@site/docs/how-to/add-new-album.md",
+  "sourceDirName": "how-to",
+  "slug": "/how-to/add-new-album",
+  "permalink": "/docs/how-to/add-new-album",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/how-to/add-new-album.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Allow blocks to be referenced through custom block type fields",
+    "permalink": "/docs/how-to/allow-blocks-to-be-referenced"
+  },
+  "next": {
+    "title": "Change PWA application name.",
+    "permalink": "/docs/how-to/change-pwa-application-name"
+  }
+}

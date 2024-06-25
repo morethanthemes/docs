@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/how_it_works",
+  "id": "custom_block_types/how_it_works",
+  "title": "How it works",
+  "description": "Read more about the How it works block.",
+  "source": "@site/docs/custom_block_types/how_it_works.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/how_it_works",
+  "permalink": "/docs/custom_block_types/how_it_works",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/how_it_works.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hero",
+    "permalink": "/docs/custom_block_types/hero"
+  },
+  "next": {
+    "title": "Icon Features",
+    "permalink": "/docs/custom_block_types/icon_features"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "extra/modules_and_configuration",
+  "id": "extra/modules_and_configuration",
+  "title": "Modules & Configuration",
+  "description": "Overview of the Drupal modules used in Webmaker+:",
+  "source": "@site/docs/extra/modules_and_configuration.md",
+  "sourceDirName": "extra",
+  "slug": "/extra/modules_and_configuration",
+  "permalink": "/docs/extra/modules_and_configuration",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/extra/modules_and_configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Extra",
+    "permalink": "/docs/category/extra"
+  },
+  "next": {
+    "title": "Views",
+    "permalink": "/docs/extra/views"
+  }
+}

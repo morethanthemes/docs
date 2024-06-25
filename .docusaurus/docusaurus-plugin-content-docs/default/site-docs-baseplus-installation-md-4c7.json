@@ -1,0 +1,27 @@
+{
+  "unversionedId": "baseplus/installation",
+  "id": "baseplus/installation",
+  "title": "Installation",
+  "description": "Webmaker+ installation guidelines for Drupal 9.",
+  "source": "@site/docs/baseplus/installation.md",
+  "sourceDirName": "baseplus",
+  "slug": "/baseplus/installation",
+  "permalink": "/docs/baseplus/installation",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/baseplus/installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Post Installation Tasks",
+    "permalink": "/docs/baseplus/post-installation"
+  }
+}

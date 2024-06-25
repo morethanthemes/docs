@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/typing_animation",
+  "id": "custom_block_types/typing_animation",
+  "title": "Typing Animation",
+  "description": "Read more about the Typing Animation block.",
+  "source": "@site/docs/custom_block_types/typing_animation.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/typing_animation",
+  "permalink": "/docs/custom_block_types/typing_animation",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/typing_animation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 23,
+  "frontMatter": {
+    "sidebar_position": 23
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logo Links",
+    "permalink": "/docs/custom_block_types/logo-links"
+  },
+  "next": {
+    "title": "Video Gallery",
+    "permalink": "/docs/custom_block_types/video_gallery"
+  }
+}

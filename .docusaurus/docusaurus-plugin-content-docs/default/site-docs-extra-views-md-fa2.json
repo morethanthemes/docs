@@ -1,0 +1,27 @@
+{
+  "unversionedId": "extra/views",
+  "id": "extra/views",
+  "title": "Views",
+  "description": "One of the most powerful features of Drupal is the Views module, which in Drupal 9 is anymore in core.",
+  "source": "@site/docs/extra/views.md",
+  "sourceDirName": "extra",
+  "slug": "/extra/views",
+  "permalink": "/docs/extra/views",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/extra/views.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modules & Configuration",
+    "permalink": "/docs/extra/modules_and_configuration"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/extra/roadmap"
+  }
+}

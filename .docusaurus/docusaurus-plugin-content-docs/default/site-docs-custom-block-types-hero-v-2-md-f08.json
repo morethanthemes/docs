@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/hero_v2",
+  "id": "custom_block_types/hero_v2",
+  "title": "Hero v2",
+  "description": "Read more about the Hero v2 block.",
+  "source": "@site/docs/custom_block_types/hero_v2.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/hero_v2",
+  "permalink": "/docs/custom_block_types/hero_v2",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/hero_v2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hero form",
+    "permalink": "/docs/custom_block_types/hero_form"
+  },
+  "next": {
+    "title": "Highlight Feature",
+    "permalink": "/docs/custom_block_types/highlight_feature"
+  }
+}

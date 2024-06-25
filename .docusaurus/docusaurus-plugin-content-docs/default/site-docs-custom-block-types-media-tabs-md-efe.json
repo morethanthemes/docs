@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/media_tabs",
+  "id": "custom_block_types/media_tabs",
+  "title": "Media Tabs",
+  "description": "Read more about the Media Tabs block.",
+  "source": "@site/docs/custom_block_types/media_tabs.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/media_tabs",
+  "permalink": "/docs/custom_block_types/media_tabs",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/media_tabs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Icon Features",
+    "permalink": "/docs/custom_block_types/icon_features"
+  },
+  "next": {
+    "title": "Modal",
+    "permalink": "/docs/custom_block_types/modal"
+  }
+}

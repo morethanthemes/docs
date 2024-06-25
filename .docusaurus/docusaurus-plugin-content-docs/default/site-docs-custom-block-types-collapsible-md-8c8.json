@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/collapsible",
+  "id": "custom_block_types/collapsible",
+  "title": "Collapsible",
+  "description": "Read more about the Collapsible block.",
+  "source": "@site/docs/custom_block_types/collapsible.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/collapsible",
+  "permalink": "/docs/custom_block_types/collapsible",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/collapsible.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Background video",
+    "permalink": "/docs/custom_block_types/background-video"
+  },
+  "next": {
+    "title": "Detailed Feature",
+    "permalink": "/docs/custom_block_types/detailed_feature"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "how-to/create-new-instances-of-blocks",
+  "id": "how-to/create-new-instances-of-blocks",
+  "title": "Create new instances (clones) of existing blocks and assign them to regions",
+  "description": "Drupal 9 comes by default with a feature that allows you to create new instances of existing blocks and assign those in the theme regions.",
+  "source": "@site/docs/how-to/create-new-instances-of-blocks.md",
+  "sourceDirName": "how-to",
+  "slug": "/how-to/create-new-instances-of-blocks",
+  "permalink": "/docs/how-to/create-new-instances-of-blocks",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/how-to/create-new-instances-of-blocks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Host Google fonts locally",
+    "permalink": "/docs/how-to/google-fonts-locally"
+  },
+  "next": {
+    "title": "Allow blocks to be referenced through custom block type fields",
+    "permalink": "/docs/how-to/allow-blocks-to-be-referenced"
+  }
+}

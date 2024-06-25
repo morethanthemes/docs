@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/hero_form",
+  "id": "custom_block_types/hero_form",
+  "title": "Hero form",
+  "description": "Read more about the Hero form block.",
+  "source": "@site/docs/custom_block_types/hero_form.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/hero_form",
+  "permalink": "/docs/custom_block_types/hero_form",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/hero_form.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ιmage with overlaid text",
+    "permalink": "/docs/custom_block_types/image_with_overlaid_text"
+  },
+  "next": {
+    "title": "Hero v2",
+    "permalink": "/docs/custom_block_types/hero_v2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Guides",
+  "description": " ",
+  "slug": "/category/guides",
+  "permalink": "/docs/category/guides",
+  "navigation": {
+    "previous": {
+      "title": "Themes",
+      "permalink": "/docs/themes"
+    },
+    "next": {
+      "title": "Basic Theme Overview",
+      "permalink": "/docs/guides/basic_theme_overview"
+    }
+  }
+}

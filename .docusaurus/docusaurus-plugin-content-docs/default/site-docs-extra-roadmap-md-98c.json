@@ -1,0 +1,27 @@
+{
+  "unversionedId": "extra/roadmap",
+  "id": "extra/roadmap",
+  "title": "Roadmap",
+  "description": "Webmaker+ 9.x.x",
+  "source": "@site/docs/extra/roadmap.md",
+  "sourceDirName": "extra",
+  "slug": "/extra/roadmap",
+  "permalink": "/docs/extra/roadmap",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/extra/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Views",
+    "permalink": "/docs/extra/views"
+  },
+  "next": {
+    "title": "What's New in Webmaker+ Pro",
+    "permalink": "/docs/changelog"
+  }
+}

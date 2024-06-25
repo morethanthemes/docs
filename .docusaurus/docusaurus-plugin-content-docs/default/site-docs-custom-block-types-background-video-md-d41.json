@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/background-video",
+  "id": "custom_block_types/background-video",
+  "title": "Background video",
+  "description": "Read more about the Video Background block.",
+  "source": "@site/docs/custom_block_types/background-video.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/background-video",
+  "permalink": "/docs/custom_block_types/background-video",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/background-video.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Background image",
+    "permalink": "/docs/custom_block_types/background_image"
+  },
+  "next": {
+    "title": "Collapsible",
+    "permalink": "/docs/custom_block_types/collapsible"
+  }
+}

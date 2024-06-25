@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/google_map",
+  "id": "custom_block_types/google_map",
+  "title": "Google Map",
+  "description": "Read more about the Google map block.",
+  "source": "@site/docs/custom_block_types/google_map.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/google_map",
+  "permalink": "/docs/custom_block_types/google_map",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/google_map.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Front page cover",
+    "permalink": "/docs/custom_block_types/front_page_cover"
+  },
+  "next": {
+    "title": "Hero",
+    "permalink": "/docs/custom_block_types/hero"
+  }
+}

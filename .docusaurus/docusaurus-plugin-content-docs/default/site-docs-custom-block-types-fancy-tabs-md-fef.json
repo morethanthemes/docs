@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/fancy_tabs",
+  "id": "custom_block_types/fancy_tabs",
+  "title": "Fancy Tabs",
+  "description": "Read more about the Fancy Tabs block.",
+  "source": "@site/docs/custom_block_types/fancy_tabs.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/fancy_tabs",
+  "permalink": "/docs/custom_block_types/fancy_tabs",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/fancy_tabs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fancy Linked Images",
+    "permalink": "/docs/custom_block_types/fancy_linked_images"
+  },
+  "next": {
+    "title": "Featured Linked Text Tiles",
+    "permalink": "/docs/custom_block_types/featured_linked_text_tiles"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "how-to/implement-one-signal-push-notifications",
+  "id": "how-to/implement-one-signal-push-notifications",
+  "title": "Implement One signal push notifications.",
+  "description": "Read more here.",
+  "source": "@site/docs/how-to/implement-one-signal-push-notifications.md",
+  "sourceDirName": "how-to",
+  "slug": "/how-to/implement-one-signal-push-notifications",
+  "permalink": "/docs/how-to/implement-one-signal-push-notifications",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/how-to/implement-one-signal-push-notifications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Change PWA application name.",
+    "permalink": "/docs/how-to/change-pwa-application-name"
+  },
+  "next": {
+    "title": "Custom Block Types",
+    "permalink": "/docs/category/custom-block-types"
+  }
+}

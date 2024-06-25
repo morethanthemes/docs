@@ -1,0 +1,27 @@
+{
+  "unversionedId": "how-to/customize-theme",
+  "id": "how-to/customize-theme",
+  "title": "Customize the theme",
+  "description": "The theme style is written in a SMACSS-inspired approach and is very modular. According to this architecture we have added a local css file for each CSS category that overrides the corresponding category CSS rules.",
+  "source": "@site/docs/how-to/customize-theme.md",
+  "sourceDirName": "how-to",
+  "slug": "/how-to/customize-theme",
+  "permalink": "/docs/how-to/customize-theme",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/how-to/customize-theme.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to",
+    "permalink": "/docs/category/how-to"
+  },
+  "next": {
+    "title": "Customize the color scheme",
+    "permalink": "/docs/how-to/custom-color-profile"
+  }
+}

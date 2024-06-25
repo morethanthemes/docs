@@ -1,0 +1,16 @@
+{
+  "title": "Extra",
+  "description": " ",
+  "slug": "/category/extra",
+  "permalink": "/docs/category/extra",
+  "navigation": {
+    "previous": {
+      "title": "Video Tutorials",
+      "permalink": "/docs/video-tutorials"
+    },
+    "next": {
+      "title": "Modules & Configuration",
+      "permalink": "/docs/extra/modules_and_configuration"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "how-to/allow-blocks-to-be-referenced",
+  "id": "how-to/allow-blocks-to-be-referenced",
+  "title": "Allow blocks to be referenced through custom block type fields",
+  "description": "In order to be able to reference and display a block though a custom block reference field you should first assign it to a region. We have created the “Hidden blocks collection” region exactly for this reason.",
+  "source": "@site/docs/how-to/allow-blocks-to-be-referenced.md",
+  "sourceDirName": "how-to",
+  "slug": "/how-to/allow-blocks-to-be-referenced",
+  "permalink": "/docs/how-to/allow-blocks-to-be-referenced",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/how-to/allow-blocks-to-be-referenced.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create new instances (clones) of existing blocks and assign them to regions",
+    "permalink": "/docs/how-to/create-new-instances-of-blocks"
+  },
+  "next": {
+    "title": "Add a new Album node",
+    "permalink": "/docs/how-to/add-new-album"
+  }
+}

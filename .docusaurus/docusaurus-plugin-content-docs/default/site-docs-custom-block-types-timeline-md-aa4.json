@@ -1,0 +1,27 @@
+{
+  "unversionedId": "custom_block_types/timeline",
+  "id": "custom_block_types/timeline",
+  "title": "Timeline",
+  "description": "Read more about the Timeline block.",
+  "source": "@site/docs/custom_block_types/timeline.md",
+  "sourceDirName": "custom_block_types",
+  "slug": "/custom_block_types/timeline",
+  "permalink": "/docs/custom_block_types/timeline",
+  "draft": false,
+  "editUrl": "https://github.com/morethanthemes/docs/edit/master/docs/custom_block_types/timeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tabs",
+    "permalink": "/docs/custom_block_types/tabs"
+  },
+  "next": {
+    "title": "Ιmage with overlaid text",
+    "permalink": "/docs/custom_block_types/image_with_overlaid_text"
+  }
+}
