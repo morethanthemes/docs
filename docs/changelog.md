@@ -2,25 +2,32 @@
 sidebar_position: 99
 ---
 
-# What's New
+# What's New in Webmaker+ Pro
 
-## 10.2.0
-* Integrate AI Experience
-   * Auto generate Images based on the body texts and custom prompts
-   * Auto generate and suggest Post metatags
-   * Enable AI features for CK Editor
-   * Generate content with actions in the sidebar. 
+Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
-## 10.1.0
-* Update Drupal core to `v10.2.7`
-* Update contribured modules to their latest version
+## Version 10.2.0 - AI Integration Enhancements
 
-## 10.0.0
+**Release Highlights:**
 
-The Webmaker+ Pro initial release.
+- **AI-Powered Features:**
+  - **Image Generation:** Automatically generate images based on body texts and custom prompts, enhancing visual content creation without leaving the editor.
+  - **Post Metatags:** AI now assists in generating and suggesting metatags for your posts, improving SEO with less effort.
+  - **CK Editor AI Integration:** Enable AI features directly within the CK Editor to streamline content creation, making it smarter and more intuitive.
+  - **Sidebar Content Actions:** Generate content with actions directly from the sidebar to boost your workflow efficiency.
 
-# References
+## Version 10.1.0 - Core and Module Updates
 
-- [Webmaker+](https://webmaker.morethanthemes.com/)
-- [More than Themes](https://morethanthemes.com/)
+**Release Highlights:**
+
+- **Updated Drupal Core:** Upgraded to the latest Drupal core version `v10.2.7`, ensuring better security and performance.
+- **Modules Update:** All contributed modules have been updated to their latest versions to enhance functionality and compatibility.
+
+## Version 10.0.0 - Initial Release
+
+**Introduction of Webmaker+ Pro:**
+
+- The initial release of Webmaker+ Pro marks the beginning of a new era in web development. Packed with essential tools and a friendly interface, it sets the stage for powerful, yet streamlined website creation.
+
+For more detailed information on each update and additional resources, please visit our [official website](https://webmaker.morethanthemes.com/).
 
