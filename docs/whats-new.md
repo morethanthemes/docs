@@ -1,5 +1,6 @@
 ---
 sidebar_position: 99
+sidebar_label: What's New
 ---
 
 # What's New in Webmaker+ Pro
