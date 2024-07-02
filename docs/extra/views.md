@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Views
 
-One of the most powerful features of Drupal is the Views module, which in Drupal 9 is anymore in core.
+One of the most powerful features of Drupal is the Views module, which in Drupal 10 is anymore in core.
 
 
 Further to the default Views blocks, like

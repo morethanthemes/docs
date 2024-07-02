@@ -4,10 +4,10 @@ sidebar_position: 8
 
 # Static Blocks
 
-With Webmaker+ and Drupal 9 you can create new blocks and place them wherever you want in your site. You can also place multiple instances of those, as well, as described above.
+With Webmaker+ and Drupal 10 you can create new blocks and place them wherever you want in your site. You can also place multiple instances of those, as well, as described above.
 
 
-To demonstrate the above-mentioned option, to show you the styling the theme comes with, and also to help you get up to speed with developing your Drupal 9 site using Webmaker+, it comes with the pre-built and preconfigured blocks below:
+To demonstrate the above-mentioned option, to show you the styling the theme comes with, and also to help you get up to speed with developing your Drupal 10 site using Webmaker+, it comes with the pre-built and preconfigured blocks below:
 
 
 - Address 
@@ -37,5 +37,5 @@ To demonstrate the above-mentioned option, to show you the styling the theme com
 
 **Important notice:**
 
-The above-mentioned built-in and preconfigured blocks are available when doing a full installation of Webmaker+, with the demo content as well. These are not available if you simply install Webmaker+ as a simple Drupal 9 theme.
+The above-mentioned built-in and preconfigured blocks are available when doing a full installation of Webmaker+, with the demo content as well. These are not available if you simply install Webmaker+ as a simple Drupal 10 theme.
 

@@ -8,7 +8,7 @@ sidebar_position: 1
 
 The Webmaker+ Pro product pack contains the following:
 
-- Drupal 9 core;
+- Drupal 10 core;
 - A database with demo content and configuration;
 - The Webmaker+ Pro distribution. A site builder with premium themes built on Drupal
 - All the related assets: HTML5, CSS3, JS, PHP code;
@@ -16,7 +16,7 @@ The Webmaker+ Pro product pack contains the following:
 
 ## Credits
 
-- [Drupal 9](https://www.drupal.org/about/9)
+- [Drupal 10](https://www.drupal.org/about/10)
 - [Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-jquery-plugin/2580848)
 - [Flexslider](https://github.com/woothemes/FlexSlider)
 - [Bootstrap](http://getbootstrap.com)

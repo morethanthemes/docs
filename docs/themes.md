@@ -8,7 +8,7 @@ Webmaker+ comes with several themes that are interchangeable:
 
 ## Base+
 
-A Drupal 9 theme distribution built on a deliberately barebones style guide. Sub-theme it and create your next superb site in no time. Tailored content types, cherry-picked modules, Commerce integration, and 200+ theme settings open unlimited possibilities for you to go online with products, services, client stories, and articles. One more of our interchangeable distributions.
+A Drupal 10 theme distribution built on a deliberately barebones style guide. Sub-theme it and create your next superb site in no time. Tailored content types, cherry-picked modules, Commerce integration, and 200+ theme settings open unlimited possibilities for you to go online with products, services, client stories, and articles. One more of our interchangeable distributions.
 
 [![base+ image](./img/landing-page-1.base.webmaker.png)](https://base.webmaker.plus/)
 
@@ -18,7 +18,7 @@ Try it out! </a>
 
 ## Clean+
 
-A Drupal 9 theme distribution with a clean, modern design and a great set of features, custom modules, and 200+ theme settings for presenting your products, services, client stories, and articles. Another one of our interchangeable distributions.
+A Drupal 10 theme distribution with a clean, modern design and a great set of features, custom modules, and 200+ theme settings for presenting your products, services, client stories, and articles. Another one of our interchangeable distributions.
 
 [![clean+ image](./img/landing-page-3.clean.webmaker.png)](https://clean.webmaker.plus/)
 
@@ -37,7 +37,7 @@ Try it out! </a>
 
 ## Dark+
 
-A Drupal 9 theme distribution with an impressive, dark design and a great set of features, custom modules and 200+ theme settings for presenting your products, services, client stories and articles.
+A Drupal 10 theme distribution with an impressive, dark design and a great set of features, custom modules and 200+ theme settings for presenting your products, services, client stories and articles.
 
 [![dark+ image](./img/landing-page-6.dark.webmaker.png)](https://dark.webmaker.plus/)
 
@@ -55,7 +55,7 @@ Try it out! </a>
 
 ## Groovy+
 
-A Drupal 9 theme distribution with a colorful design and a great set of features, custom modules and 200+ theme settings for presenting your products, services, client stories and articles. Another one of our interchangeable distributions.
+A Drupal 10 theme distribution with a colorful design and a great set of features, custom modules and 200+ theme settings for presenting your products, services, client stories and articles. Another one of our interchangeable distributions.
 
 [![groovy+ image](./img/landing-page-6.groovy.webmaker.png)](https://groovy.webmaker.plus/)
 
@@ -64,7 +64,7 @@ Try it out! </a>
 
 ## Showcase+
 
-A state-of-the-art Drupal 9 theme distribution for creatives, trendsetters, design and development studios. With clean, minimal design and a ton of theme settings.
+A state-of-the-art Drupal 10 theme distribution for creatives, trendsetters, design and development studios. With clean, minimal design and a ton of theme settings.
 
 [![showcase+ image](./img/landing-page-6.showcase.webmaker.png)](https://showcase.webmaker.plus/)
 
@@ -74,7 +74,7 @@ Try it out! </a>
 
 ## Sublime+
 
-A Drupal 9 theme distribution with a vintage design and a great set of features, custom modules and 200+ theme settings for presenting your products, services, client stories and articles.
+A Drupal 10 theme distribution with a vintage design and a great set of features, custom modules and 200+ theme settings for presenting your products, services, client stories and articles.
 
 [![sublime+ image](./img/landing-page-1.sublime.webmaker.png)](https://sublime.webmaker.plus/)
 
@@ -83,7 +83,7 @@ Try it out! </a>
 
 ## Team+
 
-A Drupal 9 theme distribution with a futuristic design and a great set of features, custom modules, and 200+ theme settings for presenting your products, services, client stories, and articles. Another one of our interchangeable distributions.
+A Drupal 10 theme distribution with a futuristic design and a great set of features, custom modules, and 200+ theme settings for presenting your products, services, client stories, and articles. Another one of our interchangeable distributions.
 
 [![team+ image](./img/landing-page-6.team.webmaker.png)](https://team.webmaker.plus/)
 

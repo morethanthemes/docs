@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Installation
 
-Webmaker+ installation guidelines for Drupal 9. 
+Webmaker+ installation guidelines for Drupal 10. 
 
 :::tip
 
