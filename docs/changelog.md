@@ -6,6 +6,17 @@ sidebar_position: 99
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 10.2.1 - Minor Update and Fixes
+
+**Release Highlights:**
+
+- **Drupal Core Update:**
+  - Updated to Drupal core version v10.3.0. This update ensures that your websites are running on the latest, most secure, and highest-performing core available.
+
+- **Open AI Module Fix:**
+  - Removed the Open AI CKEditor integration to address compatibility issues. We plan to reintegrate this functionality once the related and known issue in the contributed module is fixed, ensuring a smoother content creation experience.
+
+
 ## Version 10.2.0 - AI Integration Enhancements
 
 **Release Highlights:**
