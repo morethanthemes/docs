@@ -97,6 +97,12 @@ The `Post` content type comes preconfigured so you can use AI-generated images. 
 3. Leave the `In-page Image(s)` field empty.
 4. Save your node, and OpenAI will generate an image for this field.
 
+![image](https://github.com/morethanthemes/docs/assets/690575/bce850b1-1e18-4fea-8935-fc10b9332fe8)
+
+
 Important notes:
 1. AI will generate images only when the corresponding image field is empty.
 2. You can override the prompt that controls the creation of the images by adjusting the `Pre-prompt` field.
+
+3. ![image](https://github.com/morethanthemes/docs/assets/690575/d90d97db-839e-40af-9817-bdf9d847be8a)
+
