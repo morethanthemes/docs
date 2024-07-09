@@ -104,5 +104,5 @@ Important notes:
 1. AI will generate images only when the corresponding image field is empty.
 2. You can override the prompt that controls the creation of the images by adjusting the `Pre-prompt` field.
 
-3. ![image](https://github.com/morethanthemes/docs/assets/690575/d90d97db-839e-40af-9817-bdf9d847be8a)
+![image](https://github.com/morethanthemes/docs/assets/690575/d90d97db-839e-40af-9817-bdf9d847be8a)
 
