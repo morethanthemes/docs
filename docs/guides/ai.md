@@ -33,9 +33,14 @@ Switch to your Webmaker+ installation and:
 1. Navigate to the path `admin/config/openai/settings`.
 2. Enter or paste the API Key you generated before and submit the form.
 
+![image](https://github.com/morethanthemes/docs/assets/690575/a1b4ea49-5b46-4052-b3aa-e35fed6678c4)
+
+
 Similarly, you need to configure the Metatag AI Generator module:
 1. Navigate to the path `admin/config/content/metatag-ai`.
 2. Enter or paste the API Key and submit the form.
+
+![image](https://github.com/morethanthemes/docs/assets/690575/b23378ff-173f-4b25-86ad-7815900b129d)
 
 Your Webmaker+ is now ready to take advantage of all the AI-powered features.
 
