@@ -25,6 +25,7 @@ $ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
+> Actions build the site on every commit and push it in the `deployment` branch. We need **just to `git pull`** on the server.
 
 Using SSH:
 
