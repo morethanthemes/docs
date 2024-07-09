@@ -50,22 +50,34 @@ This section will guide you through all the AI-powered features available in you
 ### AI Generated Content
 Every time you create or edit a node, a collection of AI-powered options is available in the right sidebar.
 
+![image](https://github.com/morethanthemes/docs/assets/690575/bd99d95d-3e07-4143-88f5-7d5345b84c69)
+
+
 #### Suggest Taxonomy
 Select a field and the "Suggest Taxonomy" button will generate terms derived from your content.
 
+![image](https://github.com/morethanthemes/docs/assets/690575/5a6100c7-95f9-4abb-9c8b-7b4a868e59ac)
+
 #### Suggest Content Title
 Select a field, usually the `body`, and the "Suggest title" button will generate a node title for you.
+
+![image](https://github.com/morethanthemes/docs/assets/690575/54a9815d-8238-4c67-874a-43e4a57f53cf)
 
 #### Summarize
 Select a field, usually the `body`, and the "Summarize" button will prepare an elegant and precise summary for you.
 
 You can use this summary for the `Summary` part of the `body` field, social media posts, or anywhere else you need to reference this node/content.
 
+![image](https://github.com/morethanthemes/docs/assets/690575/b481abe6-39ae-49b0-b89d-9c4578f12719)
+
+
 #### Adjust Content Tone
 Select a field and the "Adjust tone" button will improve your text according to your selection. For example, it will make it more "friendly".
 
 #### Analyze Text
 Select a field, usually the `body`, and the "Analyze" button will inform you of any content policies your text may violate.
+
+![image](https://github.com/morethanthemes/docs/assets/690575/3807f346-db7e-4c13-9f5b-536ad669e862)
 
 ### Generate AI Metatag
 In the create or edit node form, you will find a new button "Generate Metatag" at the bottom of the form, next to the "Save", "Preview", and "Delete" buttons.
@@ -77,6 +89,8 @@ In the create or edit node form, you will find a new button "Generate Metatag" a
 
 ### Generate AI Images
 The `Post` content type comes preconfigured so you can use AI-generated images. OpenAI takes into account the text in the body field to prepare its prompts.
+
+![image](https://github.com/morethanthemes/docs/assets/690575/4792c44d-0a6e-4cc8-9afa-1edf606d88a4)
 
 1. Edit or create a new Post node.
 2. Fill in the body fields.
