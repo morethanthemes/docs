@@ -87,6 +87,11 @@ In the create or edit node form, you will find a new button "Generate Metatag" a
 3. Review the results in the right sidebar in the section "AI Post Metatags".
 4. Save the node.
 
+![image](https://github.com/morethanthemes/docs/assets/690575/b03254f3-1d9b-4aeb-9492-9eb6da73f919)
+
+![image](https://github.com/morethanthemes/docs/assets/690575/811caf11-0f5f-414c-a8ae-356056941a7c)
+
+
 ### Generate AI Images
 The `Post` content type comes preconfigured so you can use AI-generated images. OpenAI takes into account the text in the body field to prepare its prompts.
 
