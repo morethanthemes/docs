@@ -124,7 +124,7 @@ As the OpenAPI image generation feature is currently in beta, you may wish to di
 2. Locate the **In-page Image(s)** (`field_mt_pst_image`) field and click the edit button.
 3. Deactivate the **Enable AI Interpolator** option.
 
-4. ![image](https://github.com/user-attachments/assets/17314e93-575f-4f18-b2a7-f0ce60b1c1e1)
+![image](https://github.com/user-attachments/assets/17314e93-575f-4f18-b2a7-f0ce60b1c1e1)
 
 
 ### Disable the `Pre-prompt` Field
