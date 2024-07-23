@@ -111,3 +111,33 @@ Important notes:
 
 ![image](https://github.com/morethanthemes/docs/assets/690575/d90d97db-839e-40af-9817-bdf9d847be8a)
 
+## Disable AI Image Generation for the Post Content type
+TODO: prepare an overview that due to the `beta` nature of the OpenAPI image generation you can disable this feature from your Webmaker+ (Drupal) installation. This instruction will show you how. 
+
+### Disable  the `in-page` image filed
+1. Navigate to `admin/structure/types/manage/mt_post/fields`
+2. Locate the **In-page Image(s)** (`field_mt_pst_image`) field and click the edit button
+3. Deactivate the **Enable AI Interpolator** option.
+
+TODO: Add screen capture
+
+### Disable the `Pre-prompt` field
+1. Navigate to `admin/structure/types/manage/mt_post/fields`
+2. Locate the **Pre-prompt** (`field_mt_post_pre_prompt`) field and click the edit button
+3. Deactivate the **Enable AI Interpolator** option.
+
+TODO: Add screen capture
+
+### Uninstall modules (optional)
+You can optionaly uninstal the related modules. We suggest to keep the modules enabled so you can activate the feature more easily in the future.
+
+1. Navigatet to `admin/modules/uninstall`
+2. Uninstall the **AI Interpolator OpenAI** module
+3. Uninstall the **AI Interpolator** module
+
+
+### Delete the `Pre-prompt` field (optional)
+If you decided that you would not need this feature you can clean up your installation by also removing the related field.
+
+1. Navigate to admin/structure/types/manage/mt_post/fields
+2. Locate the **Pre-prompt** (field_mt_post_pre_prompt) field and click the delete button
