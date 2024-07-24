@@ -7,6 +7,25 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 10.3.1 - AI Field Help Text Improvements
+
+**Release Highlights:**
+
+- **Enhanced AI Field Help Text:**
+  - Improved the help text in AI-related fields, providing clearer guidance and better user experience when utilizing AI features.
+
+## Version 10.3.0 - New Theme and Core Updates
+
+**Release Highlights:**
+
+- **New Theme: Elegant+:**
+  - Introduced a new theme, Elegant+, adding more variety and customization options for your websites.
+  - Updated all themes to their latest versions, ensuring compatibility and enhanced features.
+- **Feature Images:**
+  - Added images for the new features to enhance visual understanding and accessibility.
+- **Drupal Core Update:**
+  - Updated to Drupal core version v10.3.1, ensuring your websites are running on the latest, most secure, and highest-performing core available.
+
 ## Version 10.2.1 - Minor Update and Fixes
 
 **Release Highlights:**
