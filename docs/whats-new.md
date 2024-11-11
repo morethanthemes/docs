@@ -11,13 +11,11 @@ Stay updated with the latest enhancements and updates we've brought to Webmaker+
 
 **Release Highlights:**
 
-- **Drupal Core Update**  
+- **Drupal Core Update**
   - Updated to Drupal core version v10.3.6 for enhanced performance and security.
-
-- **Flippy Module Update**  
+- **Flippy Module Update**
   - Improved navigation across paginated content.
-
-- **AI Module Patch**  
+- **AI Module Patch**
   - Applied patches for compatibility with new OpenAI key formats, ensuring seamless AI functionality.
 
 ## Version 10.3.1 - AI Field Help Text Improvements
