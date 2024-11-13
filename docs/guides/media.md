@@ -26,8 +26,6 @@ To enable the Pexels and Unsplash integrations in Webmaker+, you need to generat
   - Agree to the terms of service and click **Generate API Key**.
   - Copy the generated API key.
 
-   ![Pexels API Key Generation](path/to/pexels_api_key_image.png)
-
 - **Unsplash API Key**:
   - Go to the [Unsplash API Key Page](https://unsplash.com/oauth/applications).
   - Log in or create a new account if needed.
@@ -35,7 +33,6 @@ To enable the Pexels and Unsplash integrations in Webmaker+, you need to generat
   - Accept the terms and click **Create Application**.
   - Copy the **Access Key** and **Secret Key**.
 
-   ![Unsplash API Key Generation](path/to/unsplash_api_key_image.png)
 
 ### 2. Configure API Keys in Webmaker+
 
@@ -92,23 +89,17 @@ To upload a new image directly from your device, follow these steps:
 
 1. **Select “Upload Image” from the Sidebar**: In the media dialog, select **Upload Image** from the sidebar on the left.
    
-   ![Upload Image Sidebar Selection](path/to/upload_sidebar_image.png)
+   ![image](https://github.com/user-attachments/assets/a6e33fa9-ebc0-4daf-bb99-de01b1a79407)
 
 2. **Choose Files**: In the "Add files" section, click the **Choose Files** button to select an image from your computer.
-   
-   ![Choose Files](path/to/choose_files_image.png)
 
 3. **Upload the Image**: Select the desired image from your computer, and it will begin uploading.
 
 4. **Set Name and Alternative Text**: Once the image is uploaded, you will see a form where you can enter a **Name** and **Alternative Text** for the image. The Name is the file's identifier in the media library, and the Alternative Text improves accessibility by describing the image content.
-   
-   ![Set Name and Alternative Text](path/to/set_name_alt_text_image.png)
 
 5. **Save the Image**: After setting the Name and Alternative Text, click **Save**. The image is now added to the media library and selected automatically.
 
 6. **Insert the Selected Image**: With the image still selected, click on the **Insert selected** button at the bottom right to add the image to your content.
-
-   ![Insert Selected Image](path/to/insert_selected_image.png)
 
 > **Note**: After selecting "Upload Image," users can also choose an existing image from the library instead of uploading a new one. Simply scroll through the available images and select any image from the library.
 
@@ -118,27 +109,22 @@ Webmaker+ integrates with both Unsplash and Pexels, giving you access to a vast 
 
 1. **Select “Unsplash” or “Pexels” from the Sidebar**: In the media dialog, choose either **Unsplash** or **Pexels** from the sidebar on the left, depending on your preferred image source.
 
-   ![Select Unsplash or Pexels](path/to/sidebar_selection_image.png)
-
 2. **Search for Images**: In the **Add by keyword** field, enter a keyword describing the type of image you’re looking for. Click the **Search** button to generate relevant image results.
-
-   ![Search Images](path/to/search_images.png)
 
 3. **Select Images**: Browse through the search results and click on the images you wish to add. Each selected image will be highlighted with a checkmark. You can select multiple images at once.
 
-   ![Select Images](path/to/select_images.png)
+   ![image](https://github.com/user-attachments/assets/1580c409-d2ca-4910-9727-efd8bb0aee84)
 
 4. **Import Selected Images**: Once you've made your selections, click the **Import** button at the bottom right. This will add the selected images to the media library, allowing you to configure their properties before finalizing.
 
-   ![Import Selected Images](path/to/import_images.png)
-
 5. **Set Image Properties**: For each imported image, specify a **Name**, **Description**, and **Alternative Text** to improve accessibility and SEO. When done, click **Save** to add the images to the library.
 
-   ![Set Image Properties](path/to/set_properties.png)
+   ![image](https://github.com/user-attachments/assets/90998a75-9ab8-403a-9d02-15452a8381aa)
 
 6. **Insert Selected Images**: After saving, the images will appear in the media library, ready for insertion. Ensure the images you want to add are selected, and then click **Insert selected** to add them to your content.
 
-   ![Insert Selected Images](path/to/insert_final_selected.png)
+   ![image](https://github.com/user-attachments/assets/ab7eb7d7-79de-4688-af3d-5f582863ed67)
+
 
 ---
 
