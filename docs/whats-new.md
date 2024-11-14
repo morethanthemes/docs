@@ -18,8 +18,6 @@ Stay updated with the latest enhancements and updates we've brought to Webmaker+
 - **Theme Updates:**
   - Updated all themes to their latest versions, ensuring compatibility and improved features for a smoother user experience.
 
-For more detailed information on each update and additional resources, please visit our [official website](https://webmaker.morethanthemes.com/).
-
 ## Version 10.3.2 - Core and AI Module Updates
 
 **Release Highlights:**
