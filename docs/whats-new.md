@@ -7,6 +7,19 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 10.3.3 - New Media Sources: Pexels and Unsplash Integration
+
+**Release Highlights:**
+
+- **New Media Integrations:**
+  - Added **Unsplash** and **Pexels** as integrated media sources, allowing you to easily access and use high-quality images directly from within Webmaker+ Pro, enhancing visual content creation.
+- **Drupal Core Update:**
+  - Updated to Drupal core version v10.3.8, ensuring the latest performance improvements and security patches for your websites.
+- **Theme Updates:**
+  - Updated all themes to their latest versions, ensuring compatibility and improved features for a smoother user experience.
+
+For more detailed information on each update and additional resources, please visit our [official website](https://webmaker.morethanthemes.com/).
+
 ## Version 10.3.2 - Core and AI Module Updates
 
 **Release Highlights:**
