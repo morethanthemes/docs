@@ -30,6 +30,11 @@ Using your own Font Awesome kit ensures:
    - Enable the option: **Enable Compatibility with Older Versions**.
 5. Once your kit is created, locate the **Embed Code** and copy the provided JavaScript URL (e.g., `//kit.fontawesome.com/<your_kit_id>.js`).
 
+![Select the version: Latest 5.x](images/how-to-fontawesme-01.png)
+
+![Enable the option: Enable Compatibility with Older Versions](images/how-to-fontawesme-02.png)
+
+
 For detailed guidance on creating a Font Awesome kit, refer to the [official guide](https://docs.fontawesome.com/web/setup/use-kit).
 
 ---
