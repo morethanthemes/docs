@@ -8,8 +8,6 @@ This guide is specifically for configuring themes that rely on the **Font Awesom
 
 Themes like News+ include a pre-configured Font Awesome Kit that you can replace with your own to gain full control and personalization over the Font Awesome library.
 
----
-
 ## Why Configure Your Own Font Awesome Kit?
 
 Using your own Font Awesome kit ensures:
