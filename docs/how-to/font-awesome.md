@@ -17,8 +17,6 @@ Using your own Font Awesome kit ensures:
 - **Personalized configuration** to match your website’s unique style and requirements.
 - Avoiding potential limitations or usage caps associated with shared kits.
 
----
-
 ## Steps to Configure Font Awesome
 
 ### 1. Create a Font Awesome Account and Kit
@@ -37,8 +35,6 @@ Using your own Font Awesome kit ensures:
 ![Copy the provided JavaScript URL](images/how-to-fontawesme-03.png)
 
 For detailed guidance on creating a Font Awesome kit, refer to the [official guide](https://docs.fontawesome.com/web/setup/use-kit).
-
----
 
 ### 2. Update the Tourism+ Theme with Your Kit
 1. Access your website’s file system and navigate to the Tourism+ theme configuration file:
@@ -74,21 +70,15 @@ For detailed guidance on creating a Font Awesome kit, refer to the [official gui
 
 ![Replace the `js` line with the URL of your new Font Awesome kit](images/how-to-fontawesme-04.png)
 
----
-
 ### 3. Save Changes and Refresh the Site
 1. Save the updated `tourismplus.libraries.yml` file.
 2. Log in to your Drupal website’s admin panel.
 3. Clear all caches by navigating to:
    **Configuration > Performance > Clear all caches**.
 
----
-
 ### 4. Verify Your Configuration
 1. Reload your website to apply the changes.
 2. Confirm that the Font Awesome icons are displaying as expected.
-
----
 
 ## Benefits of Using Your Own Kit
 
