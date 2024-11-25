@@ -2,20 +2,20 @@
 sidebar_position: 3
 ---
 
-# Configure Font Awesome Library for Webmaker+
+# Configure Font Awesome Library for Themes Using Font Awesome Kits
 
-Webmaker+ is designed to provide flexibility and customization options for your website. To personalize and maintain full control over the Font Awesome icons used on your site, you can configure the theme to load the Font Awesome library from your own account.
+This guide is specifically for configuring themes that rely on the **Font Awesome Kit**, such as the **Tourism+** or **News+** theme. If your theme uses interchangeable Webmaker+ themes, this configuration does not apply.
 
-This guide explains how to set up your own Font Awesome kit and integrate it into the Webmaker+ theme.
+Themes like News+ include a pre-configured Font Awesome Kit that you can replace with your own to gain full control and personalization over the Font Awesome library.
 
 ---
 
-## Why Use Your Own Font Awesome Kit?
+## Why Configure Your Own Font Awesome Kit?
 
-Using your own Font Awesome kit provides several advantages:
-- **Full control** over the icons and features available.
-- **Personalized configuration** of your icon set to match your needs.
-- Avoid potential limitations or restrictions from shared kits.
+Using your own Font Awesome kit ensures:
+- **Full control** over the icons and features available to your website.
+- **Personalized configuration** to match your website’s unique style and requirements.
+- Avoiding potential limitations or usage caps associated with shared kits.
 
 ---
 
@@ -30,25 +30,45 @@ Using your own Font Awesome kit provides several advantages:
    - Enable the option: **Enable Compatibility with Older Versions**.
 5. Once your kit is created, locate the **Embed Code** and copy the provided JavaScript URL (e.g., `//kit.fontawesome.com/<your_kit_id>.js`).
 
-For more details on creating a Font Awesome kit, refer to the [official guide](https://docs.fontawesome.com/web/setup/use-kit).
+For detailed guidance on creating a Font Awesome kit, refer to the [official guide](https://docs.fontawesome.com/web/setup/use-kit).
 
 ---
 
-### 2. Update the Webmaker+ Theme
-1. Access your website’s file system and navigate to the theme directory:
+### 2. Update the Tourism+ Theme with Your Kit
+1. Access your website’s file system and navigate to the Tourism+ theme configuration file:
    ```
-   themes/custom/webmakerplus/webmakerplus.libraries.yml
+   themes/custom/newsplus/newsplus.libraries.yml
    ```
 2. Open the file in a text editor.
-3. Locate the `fontawesome` library configuration.
-4. Replace the existing Font Awesome URL with your new kit URL:
+3. Locate the `fontawesome` library section. It should look like this:
    ```yaml
-   js:
-     //kit.fontawesome.com/<your_kit_id>.js: {}
+   fontawesome:
+     version: 4.7.0
+     remote: //kit.fontawesome.com/
+     js:
+       //kit.fontawesome.com/460xxxxxx.js: {}
+     license:
+       name: MIT
+       url: //opensource.org/licenses/mit-license.html
+       gpl-compatible: true
+   ```
+4. Replace the `js` line with the URL of your new Font Awesome kit:
+   ```yaml
+   fontawesome:
+     version: 4.7.0
+     remote: //kit.fontawesome.com/
+     js:
+       //kit.fontawesome.com/<your_kit_id>.js: {}
+     license:
+       name: MIT
+       url: //opensource.org/licenses/mit-license.html
+       gpl-compatible: true
    ```
 
+---
+
 ### 3. Save Changes and Refresh the Site
-1. Save the updated `webmakerplus.libraries.yml` file.
+1. Save the updated `tourismplus.libraries.yml` file.
 2. Log in to your Drupal website’s admin panel.
 3. Clear all caches by navigating to:
    **Configuration > Performance > Clear all caches**.
@@ -57,7 +77,7 @@ For more details on creating a Font Awesome kit, refer to the [official guide](h
 
 ### 4. Verify Your Configuration
 1. Reload your website to apply the changes.
-2. Confirm that your Font Awesome icons are displaying as expected.
+2. Confirm that the Font Awesome icons are displaying as expected.
 
 ---
 
@@ -68,4 +88,4 @@ By setting up and using your own Font Awesome kit, you:
 - Gain flexibility to update your icon set independently.
 - Avoid usage limitations that may apply to shared or pre-configured kits.
 
-This configuration helps you fully personalize your website while maintaining seamless functionality of the Webmaker+ theme.
+
