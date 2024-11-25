@@ -34,6 +34,7 @@ Using your own Font Awesome kit ensures:
 
 ![Enable the option: Enable Compatibility with Older Versions](images/how-to-fontawesme-02.png)
 
+![Copy the provided JavaScript URL](images/how-to-fontawesme-03.png)
 
 For detailed guidance on creating a Font Awesome kit, refer to the [official guide](https://docs.fontawesome.com/web/setup/use-kit).
 
@@ -69,6 +70,9 @@ For detailed guidance on creating a Font Awesome kit, refer to the [official gui
        url: //opensource.org/licenses/mit-license.html
        gpl-compatible: true
    ```
+
+
+![Replace the `js` line with the URL of your new Font Awesome kit](images/how-to-fontawesme-04.png)
 
 ---
 
