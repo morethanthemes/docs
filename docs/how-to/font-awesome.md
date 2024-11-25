@@ -4,7 +4,16 @@ sidebar_position: 3
 
 # Configure Font Awesome Library for Themes Using Font Awesome Kits
 
-This guide is specifically for configuring themes that rely on the **Font Awesome Kit**, such as the **Tourism+** or **News+** theme. If your theme uses interchangeable Webmaker+ themes, this configuration does not apply.
+This guide is specifically for configuring themes that rely on the **Font Awesome Kit**, including:
+
+- **Tourism+**
+- **News+**
+- **Top+**
+- **Enterprise+**
+- **Guesthouse+**
+- **Restaurant+**
+
+If your theme uses interchangeable Webmaker+ themes, this configuration does not apply.
 
 Themes like News+ include a pre-configured Font Awesome Kit that you can replace with your own to gain full control and personalization over the Font Awesome library.
 
