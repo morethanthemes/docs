@@ -4,24 +4,24 @@ sidebar_position: 10
 
 # Progressive Web App (PWA)
 
-Webmaker+ incorporates Progressive Web App (PWA) functionality, allowing you to deliver app-like experiences on your website. This documentation explains the PWA features, how to enable and configure them, and how to verify functionality.
+Webmaker+ brings the power of Progressive Web Apps (PWA) to your website, enabling seamless, app-like experiences that enhance user engagement and accessibility. With PWA functionality, your site can offer faster load times, offline access, and an immersive experience that feels like a native app. This guide walks you through enabling and configuring these features, ensuring you unlock the full potential of your Webmaker+ site.
 
 ## Enabling PWA in Webmaker+
 
 To enable the PWA functionality in Webmaker+, follow these steps:
 
-1. **Go to Theme Settings:**
+1. **Log in as Administrator:**
+   - Ensure you are logged in to your Drupal site with administrator privileges.
 
+2. **Go to Theme Settings:**
    - Navigate to the **Appearance** section in the Drupal admin panel.
    - Open the settings for the enabled theme (e.g., Base+).
 
 3. **Enable PWA:**
-
    - Scroll to the "3rd Party Integrations" section.
    - Check the box labeled **Enable PWA**.
 
 4. **Save Configuration:**
-
    - Click **Save configuration** to apply the changes.
 
 Once you enable PWA, the service worker and associated functionality are activated.
