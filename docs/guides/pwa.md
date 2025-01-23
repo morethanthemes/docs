@@ -8,6 +8,8 @@ Webmaker+ brings the power of Progressive Web Apps (PWA) to your website, enabli
 
 ## Enabling PWA in Webmaker+
 
+![image](https://github.com/user-attachments/assets/3dc37793-0ae8-48ff-8ef4-0ec389bf57f0)
+
 To enable the PWA functionality in Webmaker+, follow these steps:
 
 1. **Log in as Administrator:**
@@ -28,6 +30,8 @@ Once you enable PWA, the service worker and associated functionality are activat
 
 ## Installing the PWA
 
+![image](https://github.com/user-attachments/assets/0e21af99-ee13-434f-beea-2b24e89bdc47)
+
 1. **See the Installation Prompt:**
    When you visit the site, you will see an **"Install App" button.**
 
@@ -41,6 +45,9 @@ Once you enable PWA, the service worker and associated functionality are activat
    Once installed, you can launch the app in a standalone window, just like a native application.
 
 ## Verifying PWA Functionality
+
+![image](https://github.com/user-attachments/assets/81eb83ac-52c0-4de9-9fb1-7c3aea70d0c7)
+
 
 ### 1. Check Service Worker in Developer Tools
 
