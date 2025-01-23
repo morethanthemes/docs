@@ -87,7 +87,7 @@ Once you enable PWA, the service worker and associated functionality are activat
 
 ## Local Development 
 
-## Setup DDEV for HTTPS
+### Setup DDEV for HTTPS
 
 PWA features require your site to be served over HTTPS. For local development using DDEV, follow these steps:
 
