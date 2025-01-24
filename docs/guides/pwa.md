@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Progressive Web App (PWA)
 
-Webmaker+ brings the power of Progressive Web Apps (PWA) to your website, enabling seamless, app-like experiences that enhance user engagement and accessibility. With PWA functionality, your site can offer faster load times, offline access, and an immersive experience that feels like a native app. This guide walks you through enabling and configuring these features, ensuring you unlock the full potential of your Webmaker+ site.
+Webmaker+ brings the power of Progressive Web Apps (PWA) to your website, enabling seamless, app-like experiences that enhance user engagement and accessibility on any modern mobile device. With PWA functionality, your site can offer faster load times, offline access, and an immersive experience that feels like a native app. This guide walks you through enabling and configuring these features, ensuring you unlock the full potential of your Webmaker+ site.
 
 ## Enabling PWA in Webmaker+
 
@@ -183,7 +183,10 @@ These files work together to deliver the seamless user experience expected of a 
 
 By building on this foundation, you can create a more engaging, reliable, and feature-rich PWA experience for your users.
 
-## Conclusion
+### More Advanced Customizations
+For more advanced customizations, you can modify `pwa-service-worker.js` and `pwa.js` to tailor the experience further.
 
-The PWA features in Webmaker+ offer significant enhancements, including offline access, improved performance, and seamless user experiences. By following this guide, you can enable, configure, and verify PWA functionality on your Webmaker+ site. For more advanced customizations, you can modify `pwa-service-worker.js` and `pwa.js` to tailor the experience further.
 
+## Closing
+
+The PWA features in Webmaker+ offer significant enhancements, including offline access, improved performance, and seamless user experiences. By following this guide, you can enable, configure, and verify the PWA functionality on your Webmaker+ powered website. 
