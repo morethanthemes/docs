@@ -7,6 +7,35 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+
+
+
+## Version 10.3.5 - PWA Fixes and Minor Improvements
+
+**Release Highlights:**
+
+- **PWA Functionality Fixes:**
+  - Addressed minor issues related to Progressive Web App (PWA) functionalities to ensure a smoother user experience.
+
+For a step-by-step guide on enabling and utilizing PWA features in Webmaker+ Pro, visit our [PWA setup guide](https://docs.webmaker.plus/docs/guides/pwa).
+
+## Version 10.3.4 - Enhanced PWA Experience & Theme Updates
+
+**Release Highlights:**
+
+- **Improved PWA Setup & Experience:**
+  - Enhanced the way Progressive Web App (PWA) features are enabled, making the setup more intuitive.
+  - Optimized caching mechanisms and logging for better performance and debugging.
+ 
+- **Theme Updates:**
+  - Updated PWA-related themes for seamless integration.
+
+- **Core & Module Updates:**
+  - Updated Drupal core and applied necessary patches for improved stability and security.
+  - Updated all themes to ensure compatibility and enhance the user experience.
+
+For a step-by-step guide on enabling and utilizing PWA features in Webmaker+ Pro, visit our [PWA setup guide](https://docs.webmaker.plus/docs/guides/pwa).
+
 ## Version 10.3.3 - New Media Sources: Pexels and Unsplash Integration
 
 **Release Highlights:**
