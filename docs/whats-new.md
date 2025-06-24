@@ -7,7 +7,40 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 10.5.1 - Admin UI Upgrade & Front Page Fixes
 
+**Release Highlights:**
+
+* **Improved Admin Interface:**
+  * Applied the **Gin Admin Theme** to enhance the back-office experience with a more modern and user-friendly interface.
+  * Replaced the old Style Guide module with the **Simple Style Guide**, making it easier to maintain and reference design elements.
+
+* **Front Page Fixes (Academia / Education Theme):**
+  * Resolved an issue where front page images in the **Academia / Education** theme were mismatched or incorrectly displayed.
+
+
+## Version 10.4.0 - Introducing Education+ & Dual Distributions
+
+**Release Highlights:**
+
+* **New Distribution: Education+:**
+  We’re excited to introduce the **Education+** distribution of Webmaker+, crafted specifically for **schools, colleges, and universities**. It supports clear presentation of **courses**, **faculty**, **events**, and **syllabus content**, helping educational institutions build elegant, informative websites with ease.
+  👉 [Discover Education+](https://webmaker.morethanthemes.com/education)
+
+* **Two Download Packages Now Available:**
+  To better serve different needs, Webmaker+ now comes in two zip packages:
+
+  * **Business Distribution:** Includes all features for building corporate websites, along with full **eCommerce functionality** (product listings, checkout, payment provider integration).
+  * **Education Distribution:** A streamlined package focused on educational content and layout.
+
+**What You Can Build with Webmaker+:**
+
+* **Build Business Websites:**
+  Present your **products**, **services**, **team**, and **testimonials** with polished layouts tailored for businesses of any size.
+* **Build Educational Websites:**
+  Create impactful sites for **schools and universities** with Education+, designed for clarity and accessibility.
+* **Build Online Shops:**
+  Launch your **online store** with product catalogs, shopping carts, and payment integration—all included.
 
 
 ## Version 10.3.5 - PWA Fixes and Minor Improvements
