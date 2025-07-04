@@ -7,6 +7,26 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+
+Here is the new section for **Version 10.5.3** in the same tone and structure as your existing entries:
+
+---
+
+## Version 10.5.3 - Education Distribution Refinements
+
+**Release Highlights:**
+
+* **Updated Education Installation Scripts:**
+  * Adjusted the **site name** and **slogan** for Education+ installations to better reflect the distribution's identity.
+
+* **Front Page Image Fixes:**
+  * Replaced and refined front page images in the **Education** distribution for improved visual consistency and presentation.
+
+* **Consistency Improvements in Scripts and Structure:**
+  * Renamed references from **Academia** to **Education** across build and provisioning scripts.
+  * Aligned the folder structure and naming conventions to consistently use **Education**, simplifying maintenance and future updates.
+
+
 ## Version 10.5.1 - Admin UI Upgrade & Front Page Fixes
 
 **Release Highlights:**
