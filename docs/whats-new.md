@@ -8,9 +8,12 @@ sidebar_label: What's New
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
 
-Here is the new section for **Version 10.5.3** in the same tone and structure as your existing entries:
+## Version 10.5.4 – Landing Page Content Refinements
 
----
+**Release Highlights:**
+
+* **Updated Link Titles:**
+  * Improved the wording of link titles on the **landing page** to enhance clarity and accessibility.
 
 ## Version 10.5.3 - Education Distribution Refinements
 
