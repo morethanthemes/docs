@@ -8,6 +8,17 @@ sidebar_label: What's New
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
 
+## Version 10.5.5 – AI Integration Upgrade & Link Fixes
+
+**Release Highlights:**
+
+* **Project AI Integration:**
+  * Replaced all internal AI implementations in Drupal 10 with **[Drupal AI](https://www.drupal.org/project/ai)**, offering a more streamlined and future-proof solution for AI-powered features.
+
+* **Broken Link Fixes in Academia Distribution:**
+  * Fixed broken links in the **Icon Features** block of the Academia/Education theme to ensure proper navigation and presentation.
+
+
 ## Version 10.5.4 – Landing Page Content Refinements
 
 **Release Highlights:**
