@@ -7,6 +7,23 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 11.0.0 – Drupal 11 Upgrade & Modernized Admin Experience
+
+**Release Highlights:**
+
+* **Upgraded to Drupal 11**
+
+  * Webmaker+ Pro now runs on **Drupal 11**, ensuring long-term stability, performance improvements, and continued compatibility with the Drupal ecosystem.
+
+* **Modern Admin Interface**
+  * Updated to the latest **Gin Admin** theme (5.x), providing a cleaner, faster, and more intuitive content editing experience.
+
+* **Improved Installation & Setup**
+  * Updated the installation scripts for a smoother setup process on both **Business** and **Education** distributions.
+
+* **Stability & UX Enhancements**
+  * General refinements and UI polish across the platform for a more consistent experience.
+
 
 ## Version 10.5.5 – AI Integration Upgrade & Link Fixes
 
