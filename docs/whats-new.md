@@ -7,6 +7,26 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 11.1.0 – Stability, AI Improvements & Compatibility Enhancements
+
+**Release Highlights:**
+
+* **Improved AI Foundation**
+  * Webmaker+ Pro now relies fully on **Project AI**, providing a more consistent and future-proof foundation for AI-powered features.
+
+* **Support for jQuery 3-Dependent Libraries**
+  * Ensured continued support for third-party libraries that rely on **jQuery 3**, such as **Slider Revolution**, following the upgrade to Drupal 11.
+  * Updated related configurations so interactive components continue to work smoothly and reliably.
+
+* **Education Distribution Fixes**
+  * Fixed broken links and content issues in the **Education** distribution, ensuring smoother navigation and correct presentation of feature blocks.
+
+* **Drupal Core & Dependency Updates**
+  * Updated to **Drupal 11.2.8**, bringing the latest performance improvements, security updates, and long-term compatibility.
+
+* **Overall Stability Improvements**
+  * General cleanup and refinements across themes and configurations for a more stable and reliable website experience.
+
 ## Version 11.0.0 – Drupal 11 Upgrade & Modernized Admin Experience
 
 **Release Highlights:**
