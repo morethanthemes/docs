@@ -7,6 +7,18 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+## Version 11.1.1 – Education+ on Drupal 11
+
+**Release Highlights:**
+
+* **Education+ Distribution Available on Drupal 11**
+  * The **Education** distribution of Webmaker+ Pro is now available on **Drupal 11**.
+  * Education sites benefit from the same stability, performance improvements, and long-term compatibility as other Drupal 11-based distributions.
+
+* **Dependency Alignment & Stability Improvements**
+  * Updated core and contributed modules to meet Drupal 11 requirements.
+  * Minor fixes and refinements to ensure a smooth and reliable installation experience.
+
 ## Version 11.1.0 – Stability, AI Improvements & Compatibility Enhancements
 
 **Release Highlights:**
