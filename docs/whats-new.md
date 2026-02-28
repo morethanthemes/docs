@@ -7,6 +7,26 @@ sidebar_label: What's New
 
 Stay updated with the latest enhancements and updates we've brought to Webmaker+ Pro. Each new version is designed to improve your web-building experience, empowering you to create better and more dynamic websites effortlessly.
 
+
+## Version 11.1.2 – Stability Improvements, Core Updates & Theme Fixes
+
+**Release Highlights:**
+
+* **Drupal Core Update**
+  * Updated Webmaker+ Pro to **Drupal 11.3**, bringing the latest performance improvements, security updates, and compatibility improvements.
+
+* **Layout Builder Compatibility Fix**
+  * Fixed an issue in the **Layout Builder** module that could cause errors with newer Drupal 11 versions.
+  * This improvement ensures smoother editing and more stable page-building operations.
+
+* **Theme Improvements and Fixes**
+  * Fixed a display issue where **Card Awesome** blocks could show incorrect background colors on colored or dark sections.
+  * Improved theme behavior when links point to paths that do not yet exist, preventing build or rendering issues.
+  * Integrated recent fixes to **Progressive Web App (PWA)** functionality for improved reliability.
+
+* **General Stability Improvements**
+  * Minor fixes and refinements to improve overall system stability.
+
 ## Version 11.1.1 – Education+ on Drupal 11
 
 **Release Highlights:**
