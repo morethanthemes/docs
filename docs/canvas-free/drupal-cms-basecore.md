@@ -59,3 +59,32 @@ composer require drupal/extra_content_canvas_basecore
 Navigate to `admin/modules/browse/extra_recipes` and enable the extra recipes to display the demo content.
 
 ![Project Browser Extra Recipes](../img/recipes_installation.png)
+
+## View the landing pages
+
+
+Once all the steps are complete, go to `admin/content/pages` to see the six new landing pages built with the Canvas components.
+
+### Business Solutions
+
+![Business Solutions](../img/canvas_busines_solutions.png)
+
+### Lead Generation
+
+![Lead Generation](../img/canvas_lead_generation.png)
+
+### About US
+
+![About Us](../img/canvas_about_us.png)
+
+### Services
+
+![Services](../img/canvas_services.png)
+
+### Online Service
+
+![Online Service](../img/canvas_online_service.png)
+
+### Start Free Trial
+
+![Start Free Trial](../img/canvas_start_free_trial.png)
