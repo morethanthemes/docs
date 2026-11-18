@@ -40,11 +40,15 @@ Install and enable the theme, then clear the Drupal caches to ensure that all th
 
 Download the module using Composer:
 
-- [Project Browser Extra Recipes](https://www.drupal.org/project/extra_content_canvas_basecore)
+- [Project Browser Extra Recipes](https://www.drupal.org/project/extra_project_browser)
 
 ```bash
 composer require 'drupal/extra_project_browser:^1.0'
 ```
+
+### Enable the Project Browser Extra Recipes module
+
+Navigate to `/admin/modules` and enable the Project Browser Extra Recipes.
 
 ### Install the Project Browser Extra Recipes
 
@@ -73,7 +77,7 @@ Once all the steps are complete, go to `admin/content/pages` to see the six new 
 
 ![Lead Generation](../img/canvas_lead_generation.png)
 
-### About US
+### About Us
 
 ![About Us](../img/canvas_about_us.png)
 
