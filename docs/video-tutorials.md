@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Video Tutorials
 
-## Create Landing Page with Drupal 10 and Layout Builder
+## Create Landing Page with Drupal and Layout Builder
 
 The following videos will help you understand how to use the Layout Builder module to create 
 a landing page for your Drupal 10 website.
